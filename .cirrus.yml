@@ -6,7 +6,7 @@ container:
 
 env:
   DEPLOY_KEY: ENCRYPTED[489ea965063f2189762e65c79c9e670efb632d4833f20e6cd151de6cc212390300930469639a1e85366a2155714a0a16]
-  PUBDIR: "iacchus.github.io"
+  PUBDIR: "output"
   ORIGIN: "git@github.com:iacchus/iacchus.github.io.git"
 
 build_and_publish_task:
@@ -34,13 +34,15 @@ build_and_publish_task:
     - git config --global user.name "I.M. - Cirrus-CI"
     - git config --global init.defaultBranch master
     #- rm -rf .git/
+  get_pelican_setup_script:
     - git clone https://github.com/iacchus/iacchus.github.io-pelican.git pelican
     - cd pelican
     - rm -rf .git/
+  get_blog_posts_script:
     - git clone https://github.com/iacchus/blog-posts.git content
-    #- export PUBDIR="iacchus.github.io"
-    #- export ORIGIN="git@github.com:iacchus/iacchus.github.io.git"
+  build_script:
     - make publish
+  publish_script:
     - cd $PUBDIR
     - git init .
     - git add .
