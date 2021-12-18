@@ -39,6 +39,7 @@ build_and_publish_task:
     - cd pelican
     - rm -rf .git/
     - git clone https://github.com/iacchus/blog-posts.git content
+    - cp -rf static/* content/
     - make publish
     - cd $PUBDIR
     - git init .
