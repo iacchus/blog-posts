@@ -18,7 +18,7 @@ build_and_publish_task:
     - echo 'LANG=en_US.UTF-8' > /etc/locale.conf        
     - locale-gen
     - pacman-key --init
-    - pacman -Syu --noconfirm git python python-pip pelican openssh make
+    - pacman -Syu --noconfirm git python python-pip pelican openssh make python-markdown
   prepare_ssh_script:
     - mkdir -p ~/.ssh/
     - echo -e "${DEPLOY_KEY}" > ~/.ssh/deploy_key
