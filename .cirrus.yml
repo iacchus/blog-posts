@@ -35,7 +35,8 @@ build_and_publish_task:
     - git config --global init.defaultBranch master
     #- rm -rf .git/
   build_and_publish_script:
-    - git clone https://github.com/iacchus/iacchus.github.io-pelican.git pelican
+    #- git clone https://github.com/iacchus/iacchus.github.io-pelican.git pelican
+    - git clone https://github.com/iacchus/ghblog-reborn.git pelican
     - cd pelican
     - rm -rf .git/
     - git clone https://github.com/iacchus/blog-posts.git content
