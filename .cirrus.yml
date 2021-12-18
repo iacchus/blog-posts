@@ -4,12 +4,13 @@ container:
   memory: 2G
   options: --user root
 
+env:
+  DEPLOY_KEY: ENCRYPTED[489ea965063f2189762e65c79c9e670efb632d4833f20e6cd151de6cc212390300930469639a1e85366a2155714a0a16]
+  PUBDIR: "iacchus.github.io"
+  ORIGIN: "git@github.com:iacchus/iacchus.github.io.git"
+
 build_and_publish_task:
   auto_cancellation: $CIRRUS_CHANGE_TITLE == 'auto from cirrus-ci'
-  environment:
-    DEPLOY_KEY: ENCRYPTED[489ea965063f2189762e65c79c9e670efb632d4833f20e6cd151de6cc212390300930469639a1e85366a2155714a0a16]
-    PUBDIR: "iacchus.github.io"
-    ORIGIN: "git@github.com:iacchus/iacchus.github.io.git"
   prepare_archlinux_script:
     - pacman -Syu --noconfirm
     - pacman -Fy
