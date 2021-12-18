@@ -1,0 +1,7416 @@
+i.cemoji {
+    background-image: url('/emoji_map/emoji.png?7404d5010a');
+    background-size: 60.2em;
+    /*vertical-align: top;*/
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-family: 'object-fit: contain, inherit;' ! important;
+    -o-object-fit: contain ! important;
+    object-fit: contain ! important;
+    vertical-align: middle ! important;
+	margin: -.2ex .15em .2ex ! important;
+}
+p > i.cemoji {
+    font-size: 2.4rem;
+}
+i.cemoji span{
+	font-size: 0.1px;
+    color: rgba(0, 0, 0, 0);
+}
+
+.cemoji-zulip {
+    background-position: -0.2em -0.2em;
+}
+
+.cemoji-zotero {
+    background-position: -1.6em -0.2em;
+}
+
+.cemoji-zorin {
+    background-position: -0.2em -1.6em;
+}
+
+.cemoji-zoom {
+    background-position: -1.6em -1.6em;
+}
+
+.cemoji-zomato {
+    background-position: -3.0em -0.2em;
+}
+
+.cemoji-zoiper {
+    background-position: -3.0em -1.6em;
+}
+
+.cemoji-zoho {
+    background-position: -0.2em -3.0em;
+}
+
+.cemoji-zingat {
+    background-position: -1.6em -3.0em;
+}
+
+.cemoji-zillow {
+    background-position: -3.0em -3.0em;
+}
+
+.cemoji-zigbee {
+    background-position: -4.4em -0.2em;
+}
+
+.cemoji-zhihu {
+    background-position: -4.4em -1.6em;
+}
+
+.cemoji-zerply {
+    background-position: -4.4em -3.0em;
+}
+
+.cemoji-zeromq {
+    background-position: -0.2em -4.4em;
+}
+
+.cemoji-zerodha {
+    background-position: -1.6em -4.4em;
+}
+
+.cemoji-zenn {
+    background-position: -3.0em -4.4em;
+}
+
+.cemoji-zendframework {
+    background-position: -4.4em -4.4em;
+}
+
+.cemoji-zendesk {
+    background-position: -5.8em -0.2em;
+}
+
+.cemoji-zend {
+    background-position: -5.8em -1.6em;
+}
+
+.cemoji-zelle {
+    background-position: -5.8em -3.0em;
+}
+
+.cemoji-zdf {
+    background-position: -5.8em -4.4em;
+}
+
+.cemoji-zapier {
+    background-position: -0.2em -5.8em;
+}
+
+.cemoji-zalo {
+    background-position: -1.6em -5.8em;
+}
+
+.cemoji-zalando {
+    background-position: -3.0em -5.8em;
+}
+
+.cemoji-youtubetv {
+    background-position: -4.4em -5.8em;
+}
+
+.cemoji-youtubestudio {
+    background-position: -5.8em -5.8em;
+}
+
+.cemoji-youtubemusic {
+    background-position: -7.2em -0.2em;
+}
+
+.cemoji-youtubegaming {
+    background-position: -7.2em -1.6em;
+}
+
+.cemoji-youtube {
+    background-position: -7.2em -3.0em;
+}
+
+.cemoji-yoast {
+    background-position: -7.2em -4.4em;
+}
+
+.cemoji-yelp {
+    background-position: -7.2em -5.8em;
+}
+
+.cemoji-ycombinator {
+    background-position: -0.2em -7.2em;
+}
+
+.cemoji-yarn {
+    background-position: -1.6em -7.2em;
+}
+
+.cemoji-yammer {
+    background-position: -3.0em -7.2em;
+}
+
+.cemoji-yamahamotorcorporation {
+    background-position: -4.4em -7.2em;
+}
+
+.cemoji-yamahacorporation {
+    background-position: -5.8em -7.2em;
+}
+
+.cemoji-yale {
+    background-position: -7.2em -7.2em;
+}
+
+.cemoji-yahoo {
+    background-position: -8.6em -0.2em;
+}
+
+.cemoji-xstate {
+    background-position: -8.6em -1.6em;
+}
+
+.cemoji-xsplit {
+    background-position: -8.6em -3.0em;
+}
+
+.cemoji-xrp {
+    background-position: -8.6em -4.4em;
+}
+
+.cemoji-xmpp {
+    background-position: -8.6em -5.8em;
+}
+
+.cemoji-xing {
+    background-position: -8.6em -7.2em;
+}
+
+.cemoji-xilinx {
+    background-position: -0.2em -8.6em;
+}
+
+.cemoji-xiaomi {
+    background-position: -1.6em -8.6em;
+}
+
+.cemoji-xfce {
+    background-position: -3.0em -8.6em;
+}
+
+.cemoji-xero {
+    background-position: -4.4em -8.6em;
+}
+
+.cemoji-xdadevelopers {
+    background-position: -5.8em -8.6em;
+}
+
+.cemoji-xcode {
+    background-position: -7.2em -8.6em;
+}
+
+.cemoji-xbox {
+    background-position: -8.6em -8.6em;
+}
+
+.cemoji-xampp {
+    background-position: -10.0em -0.2em;
+}
+
+.cemoji-xaml {
+    background-position: -10.0em -1.6em;
+}
+
+.cemoji-xamarin {
+    background-position: -10.0em -3.0em;
+}
+
+.cemoji-wwise {
+    background-position: -10.0em -4.4em;
+}
+
+.cemoji-wwe {
+    background-position: -10.0em -5.8em;
+}
+
+.cemoji-wprocket {
+    background-position: -10.0em -7.2em;
+}
+
+.cemoji-wpengine {
+    background-position: -10.0em -8.6em;
+}
+
+.cemoji-worldhealthorganization {
+    background-position: -0.2em -10.0em;
+}
+
+.cemoji-workplace {
+    background-position: -1.6em -10.0em;
+}
+
+.cemoji-wordpress {
+    background-position: -3.0em -10.0em;
+}
+
+.cemoji-woocommerce {
+    background-position: -4.4em -10.0em;
+}
+
+.cemoji-woo {
+    background-position: -5.8em -10.0em;
+}
+
+.cemoji-wolframmathematica {
+    background-position: -7.2em -10.0em;
+}
+
+.cemoji-wolframlanguage {
+    background-position: -8.6em -10.0em;
+}
+
+.cemoji-wolfram {
+    background-position: -10.0em -10.0em;
+}
+
+.cemoji-wizzair {
+    background-position: -11.4em -0.2em;
+}
+
+.cemoji-wix {
+    background-position: -11.4em -1.6em;
+}
+
+.cemoji-wistia {
+    background-position: -11.4em -3.0em;
+}
+
+.cemoji-wish {
+    background-position: -11.4em -4.4em;
+}
+
+.cemoji-wireshark {
+    background-position: -11.4em -5.8em;
+}
+
+.cemoji-wireguard {
+    background-position: -11.4em -7.2em;
+}
+
+.cemoji-wire {
+    background-position: -11.4em -8.6em;
+}
+
+.cemoji-wipro {
+    background-position: -11.4em -10.0em;
+}
+
+.cemoji-winmate {
+    background-position: -0.2em -11.4em;
+}
+
+.cemoji-windowsxp {
+    background-position: -1.6em -11.4em;
+}
+
+.cemoji-windowsterminal {
+    background-position: -3.0em -11.4em;
+}
+
+.cemoji-windows95 {
+    background-position: -4.4em -11.4em;
+}
+
+.cemoji-windows {
+    background-position: -5.8em -11.4em;
+}
+
+.cemoji-wikivoyage {
+    background-position: -7.2em -11.4em;
+}
+
+.cemoji-wikiquote {
+    background-position: -8.6em -11.4em;
+}
+
+.cemoji-wikipedia {
+    background-position: -10.0em -11.4em;
+}
+
+.cemoji-wikimediacommons {
+    background-position: -11.4em -11.4em;
+}
+
+.cemoji-wikidata {
+    background-position: -12.8em -0.2em;
+}
+
+.cemoji-wiiu {
+    background-position: -12.8em -1.6em;
+}
+
+.cemoji-wii {
+    background-position: -12.8em -3.0em;
+}
+
+.cemoji-whitesource {
+    background-position: -12.8em -4.4em;
+}
+
+.cemoji-wheniwork {
+    background-position: -12.8em -5.8em;
+}
+
+.cemoji-whatsapp {
+    background-position: -12.8em -7.2em;
+}
+
+.cemoji-wetransfer {
+    background-position: -12.8em -8.6em;
+}
+
+.cemoji-wemo {
+    background-position: -12.8em -10.0em;
+}
+
+.cemoji-wechat {
+    background-position: -12.8em -11.4em;
+}
+
+.cemoji-webtoon {
+    background-position: -0.2em -12.8em;
+}
+
+.cemoji-webstorm {
+    background-position: -1.6em -12.8em;
+}
+
+.cemoji-webrtc {
+    background-position: -3.0em -12.8em;
+}
+
+.cemoji-webpack {
+    background-position: -4.4em -12.8em;
+}
+
+.cemoji-webmoney {
+    background-position: -5.8em -12.8em;
+}
+
+.cemoji-webmin {
+    background-position: -7.2em -12.8em;
+}
+
+.cemoji-weblate {
+    background-position: -8.6em -12.8em;
+}
+
+.cemoji-webhint {
+    background-position: -10.0em -12.8em;
+}
+
+.cemoji-webgl {
+    background-position: -11.4em -12.8em;
+}
+
+.cemoji-webflow {
+    background-position: -12.8em -12.8em;
+}
+
+.cemoji-webdriverio {
+    background-position: -14.2em -0.2em;
+}
+
+.cemoji-webauthn {
+    background-position: -14.2em -1.6em;
+}
+
+.cemoji-webassembly {
+    background-position: -14.2em -3.0em;
+}
+
+.cemoji-weasyl {
+    background-position: -14.2em -4.4em;
+}
+
+.cemoji-wearos {
+    background-position: -14.2em -5.8em;
+}
+
+.cemoji-waze {
+    background-position: -14.2em -7.2em;
+}
+
+.cemoji-wattpad {
+    background-position: -14.2em -8.6em;
+}
+
+.cemoji-wappalyzer {
+    background-position: -14.2em -10.0em;
+}
+
+.cemoji-walkman {
+    background-position: -14.2em -11.4em;
+}
+
+.cemoji-wakatime {
+    background-position: -14.2em -12.8em;
+}
+
+.cemoji-wagtail {
+    background-position: -0.2em -14.2em;
+}
+
+.cemoji-w3c {
+    background-position: -1.6em -14.2em;
+}
+
+.cemoji-vultr {
+    background-position: -3.0em -14.2em;
+}
+
+.cemoji-vulkan {
+    background-position: -4.4em -14.2em;
+}
+
+.cemoji-vuetify {
+    background-position: -5.8em -14.2em;
+}
+
+.cemoji-vsco {
+    background-position: -7.2em -14.2em;
+}
+
+.cemoji-vox {
+    background-position: -8.6em -14.2em;
+}
+
+.cemoji-vonage {
+    background-position: -10.0em -14.2em;
+}
+
+.cemoji-volvo {
+    background-position: -11.4em -14.2em;
+}
+
+.cemoji-volkswagen {
+    background-position: -12.8em -14.2em;
+}
+
+.cemoji-vodafone {
+    background-position: -14.2em -14.2em;
+}
+
+.cemoji-vmware {
+    background-position: -15.6em -0.2em;
+}
+
+.cemoji-vlcmediaplayer {
+    background-position: -15.6em -1.6em;
+}
+
+.cemoji-vk {
+    background-position: -15.6em -3.0em;
+}
+
+.cemoji-vivino {
+    background-position: -15.6em -4.4em;
+}
+
+.cemoji-vivaldi {
+    background-position: -15.6em -5.8em;
+}
+
+.cemoji-vite {
+    background-position: -15.6em -7.2em;
+}
+
+.cemoji-visualstudiocode {
+    background-position: -15.6em -8.6em;
+}
+
+.cemoji-visualstudio {
+    background-position: -15.6em -10.0em;
+}
+
+.cemoji-visa {
+    background-position: -15.6em -11.4em;
+}
+
+.cemoji-virustotal {
+    background-position: -15.6em -12.8em;
+}
+
+.cemoji-virtualbox {
+    background-position: -15.6em -14.2em;
+}
+
+.cemoji-vimeolivestream {
+    background-position: -0.2em -15.6em;
+}
+
+.cemoji-vimeo {
+    background-position: -1.6em -15.6em;
+}
+
+.cemoji-vim {
+    background-position: -3.0em -15.6em;
+}
+
+.cemoji-viber {
+    background-position: -4.4em -15.6em;
+}
+
+.cemoji-viadeo {
+    background-position: -5.8em -15.6em;
+}
+
+.cemoji-vfairs {
+    background-position: -7.2em -15.6em;
+}
+
+.cemoji-verizon {
+    background-position: -8.6em -15.6em;
+}
+
+.cemoji-veritas {
+    background-position: -10.0em -15.6em;
+}
+
+.cemoji-verdaccio {
+    background-position: -11.4em -15.6em;
+}
+
+.cemoji-vercel {
+    background-position: -12.8em -15.6em;
+}
+
+.cemoji-venmo {
+    background-position: -14.2em -15.6em;
+}
+
+.cemoji-veepee {
+    background-position: -15.6em -15.6em;
+}
+
+.cemoji-veeam {
+    background-position: -17.0em -0.2em;
+}
+
+.cemoji-vectorworks {
+    background-position: -17.0em -1.6em;
+}
+
+.cemoji-vectorlogozone {
+    background-position: -17.0em -3.0em;
+}
+
+.cemoji-vbulletin {
+    background-position: -17.0em -4.4em;
+}
+
+.cemoji-vauxhall {
+    background-position: -17.0em -5.8em;
+}
+
+.cemoji-vault {
+    background-position: -17.0em -7.2em;
+}
+
+.cemoji-vapor {
+    background-position: -17.0em -8.6em;
+}
+
+.cemoji-valve {
+    background-position: -17.0em -10.0em;
+}
+
+.cemoji-vagrant {
+    background-position: -17.0em -11.4em;
+}
+
+.cemoji-vaadin {
+    background-position: -17.0em -12.8em;
+}
+
+.cemoji-v8 {
+    background-position: -17.0em -14.2em;
+}
+
+.cemoji-v {
+    background-position: -17.0em -15.6em;
+}
+
+.cemoji-usps {
+    background-position: -0.2em -17.0em;
+}
+
+.cemoji-upwork {
+    background-position: -1.6em -17.0em;
+}
+
+.cemoji-ups {
+    background-position: -3.0em -17.0em;
+}
+
+.cemoji-uploaded {
+    background-position: -4.4em -17.0em;
+}
+
+.cemoji-uplabs {
+    background-position: -5.8em -17.0em;
+}
+
+.cemoji-upcloud {
+    background-position: -7.2em -17.0em;
+}
+
+.cemoji-untappd {
+    background-position: -8.6em -17.0em;
+}
+
+.cemoji-untangle {
+    background-position: -10.0em -17.0em;
+}
+
+.cemoji-unsplash {
+    background-position: -11.4em -17.0em;
+}
+
+.cemoji-unrealengine {
+    background-position: -12.8em -17.0em;
+}
+
+.cemoji-unraid {
+    background-position: -14.2em -17.0em;
+}
+
+.cemoji-unity {
+    background-position: -15.6em -17.0em;
+}
+
+.cemoji-unitedairlines {
+    background-position: -17.0em -17.0em;
+}
+
+.cemoji-unilever {
+    background-position: -18.4em -0.2em;
+}
+
+.cemoji-unicode {
+    background-position: -18.4em -1.6em;
+}
+
+.cemoji-undertale {
+    background-position: -18.4em -3.0em;
+}
+
+.cemoji-unacademy {
+    background-position: -18.4em -4.4em;
+}
+
+.cemoji-umbraco {
+    background-position: -18.4em -5.8em;
+}
+
+.cemoji-ulule {
+    background-position: -18.4em -7.2em;
+}
+
+.cemoji-uikit {
+    background-position: -18.4em -8.6em;
+}
+
+.cemoji-ufc {
+    background-position: -18.4em -10.0em;
+}
+
+.cemoji-udemy {
+    background-position: -18.4em -11.4em;
+}
+
+.cemoji-udacity {
+    background-position: -18.4em -12.8em;
+}
+
+.cemoji-ubuntu {
+    background-position: -18.4em -14.2em;
+}
+
+.cemoji-ublockorigin {
+    background-position: -18.4em -15.6em;
+}
+
+.cemoji-ubisoft {
+    background-position: -18.4em -17.0em;
+}
+
+.cemoji-ubiquiti {
+    background-position: -0.2em -18.4em;
+}
+
+.cemoji-ubereats {
+    background-position: -1.6em -18.4em;
+}
+
+.cemoji-uber {
+    background-position: -3.0em -18.4em;
+}
+
+.cemoji-typo3 {
+    background-position: -4.4em -18.4em;
+}
+
+.cemoji-typescript {
+    background-position: -5.8em -18.4em;
+}
+
+.cemoji-twoo {
+    background-position: -7.2em -18.4em;
+}
+
+.cemoji-twitter {
+    background-position: -8.6em -18.4em;
+}
+
+.cemoji-twitch {
+    background-position: -10.0em -18.4em;
+}
+
+.cemoji-twilio {
+    background-position: -11.4em -18.4em;
+}
+
+.cemoji-tvtime {
+    background-position: -12.8em -18.4em;
+}
+
+.cemoji-tutanota {
+    background-position: -14.2em -18.4em;
+}
+
+.cemoji-turkishairlines {
+    background-position: -15.6em -18.4em;
+}
+
+.cemoji-turbosquid {
+    background-position: -17.0em -18.4em;
+}
+
+.cemoji-tunein {
+    background-position: -18.4em -18.4em;
+}
+
+.cemoji-tumblr {
+    background-position: -19.8em -0.2em;
+}
+
+.cemoji-tui {
+    background-position: -19.8em -1.6em;
+}
+
+.cemoji-tryitonline {
+    background-position: -19.8em -3.0em;
+}
+
+.cemoji-tryhackme {
+    background-position: -19.8em -4.4em;
+}
+
+.cemoji-trustpilot {
+    background-position: -19.8em -5.8em;
+}
+
+.cemoji-trustedshops {
+    background-position: -19.8em -7.2em;
+}
+
+.cemoji-trulia {
+    background-position: -19.8em -8.6em;
+}
+
+.cemoji-truenas {
+    background-position: -19.8em -10.0em;
+}
+
+.cemoji-trove {
+    background-position: -19.8em -11.4em;
+}
+
+.cemoji-tripadvisor {
+    background-position: -19.8em -12.8em;
+}
+
+.cemoji-trino {
+    background-position: -19.8em -14.2em;
+}
+
+.cemoji-triller {
+    background-position: -19.8em -15.6em;
+}
+
+.cemoji-treyarch {
+    background-position: -19.8em -17.0em;
+}
+
+.cemoji-trendmicro {
+    background-position: -19.8em -18.4em;
+}
+
+.cemoji-trello {
+    background-position: -0.2em -19.8em;
+}
+
+.cemoji-treehouse {
+    background-position: -1.6em -19.8em;
+}
+
+.cemoji-travisci {
+    background-position: -3.0em -19.8em;
+}
+
+.cemoji-transportforlondon {
+    background-position: -4.4em -19.8em;
+}
+
+.cemoji-transportforireland {
+    background-position: -5.8em -19.8em;
+}
+
+.cemoji-transferwise {
+    background-position: -7.2em -19.8em;
+}
+
+.cemoji-trakt {
+    background-position: -8.6em -19.8em;
+}
+
+.cemoji-trainerroad {
+    background-position: -10.0em -19.8em;
+}
+
+.cemoji-tqdm {
+    background-position: -11.4em -19.8em;
+}
+
+.cemoji-toyota {
+    background-position: -12.8em -19.8em;
+}
+
+.cemoji-toshiba {
+    background-position: -14.2em -19.8em;
+}
+
+.cemoji-torproject {
+    background-position: -15.6em -19.8em;
+}
+
+.cemoji-torbrowser {
+    background-position: -17.0em -19.8em;
+}
+
+.cemoji-toptal {
+    background-position: -18.4em -19.8em;
+}
+
+.cemoji-topcoder {
+    background-position: -19.8em -19.8em;
+}
+
+.cemoji-tomorrowland {
+    background-position: -21.2em -0.2em;
+}
+
+.cemoji-tokyometro {
+    background-position: -21.2em -1.6em;
+}
+
+.cemoji-toggl {
+    background-position: -21.2em -3.0em;
+}
+
+.cemoji-todoist {
+    background-position: -21.2em -4.4em;
+}
+
+.cemoji-tmux {
+    background-position: -21.2em -5.8em;
+}
+
+.cemoji-tinyletter {
+    background-position: -21.2em -7.2em;
+}
+
+.cemoji-tinted {
+    background-position: -21.2em -8.6em;
+}
+
+.cemoji-tinder {
+    background-position: -21.2em -10.0em;
+}
+
+.cemoji-timescale {
+    background-position: -21.2em -11.4em;
+}
+
+.cemoji-tile {
+    background-position: -21.2em -12.8em;
+}
+
+.cemoji-tiktok {
+    background-position: -21.2em -14.2em;
+}
+
+.cemoji-tietoevry {
+    background-position: -21.2em -15.6em;
+}
+
+.cemoji-tide {
+    background-position: -21.2em -17.0em;
+}
+
+.cemoji-tidal {
+    background-position: -21.2em -18.4em;
+}
+
+.cemoji-ticketmaster {
+    background-position: -21.2em -19.8em;
+}
+
+.cemoji-thymeleaf {
+    background-position: -0.2em -21.2em;
+}
+
+.cemoji-thunderbird {
+    background-position: -1.6em -21.2em;
+}
+
+.cemoji-thumbtack {
+    background-position: -3.0em -21.2em;
+}
+
+.cemoji-threema {
+    background-position: -4.4em -21.2em;
+}
+
+.cemoji-thinkpad {
+    background-position: -5.8em -21.2em;
+}
+
+.cemoji-thingiverse {
+    background-position: -7.2em -21.2em;
+}
+
+.cemoji-thewashingtonpost {
+    background-position: -8.6em -21.2em;
+}
+
+.cemoji-thespritersresource {
+    background-position: -10.0em -21.2em;
+}
+
+.cemoji-thesoundsresource {
+    background-position: -11.4em -21.2em;
+}
+
+.cemoji-theregister {
+    background-position: -12.8em -21.2em;
+}
+
+.cemoji-themoviedatabase {
+    background-position: -14.2em -21.2em;
+}
+
+.cemoji-themodelsresource {
+    background-position: -15.6em -21.2em;
+}
+
+.cemoji-themighty {
+    background-position: -17.0em -21.2em;
+}
+
+.cemoji-theirishtimes {
+    background-position: -18.4em -21.2em;
+}
+
+.cemoji-theconversation {
+    background-position: -19.8em -21.2em;
+}
+
+.cemoji-textpattern {
+    background-position: -21.2em -21.2em;
+}
+
+.cemoji-testinglibrary {
+    background-position: -22.6em -0.2em;
+}
+
+.cemoji-testin {
+    background-position: -22.6em -1.6em;
+}
+
+.cemoji-tesla {
+    background-position: -22.6em -3.0em;
+}
+
+.cemoji-terraform {
+    background-position: -22.6em -4.4em;
+}
+
+.cemoji-teratail {
+    background-position: -22.6em -5.8em;
+}
+
+.cemoji-teradata {
+    background-position: -22.6em -7.2em;
+}
+
+.cemoji-tensorflow {
+    background-position: -22.6em -8.6em;
+}
+
+.cemoji-tencentqq {
+    background-position: -22.6em -10.0em;
+}
+
+.cemoji-telegraph {
+    background-position: -22.6em -11.4em;
+}
+
+.cemoji-telegram {
+    background-position: -22.6em -12.8em;
+}
+
+.cemoji-tele5 {
+    background-position: -22.6em -14.2em;
+}
+
+.cemoji-tekton {
+    background-position: -22.6em -15.6em;
+}
+
+.cemoji-teespring {
+    background-position: -22.6em -17.0em;
+}
+
+.cemoji-ted {
+    background-position: -22.6em -18.4em;
+}
+
+.cemoji-teamviewer {
+    background-position: -22.6em -19.8em;
+}
+
+.cemoji-teamspeak {
+    background-position: -22.6em -21.2em;
+}
+
+.cemoji-teamcity {
+    background-position: -0.2em -22.6em;
+}
+
+.cemoji-taxbuzz {
+    background-position: -1.6em -22.6em;
+}
+
+.cemoji-tata {
+    background-position: -3.0em -22.6em;
+}
+
+.cemoji-tasmota {
+    background-position: -4.4em -22.6em;
+}
+
+.cemoji-tapas {
+    background-position: -5.8em -22.6em;
+}
+
+.cemoji-taobao {
+    background-position: -7.2em -22.6em;
+}
+
+.cemoji-tampermonkey {
+    background-position: -8.6em -22.6em;
+}
+
+.cemoji-talend {
+    background-position: -10.0em -22.6em;
+}
+
+.cemoji-tailwindcss {
+    background-position: -11.4em -22.6em;
+}
+
+.cemoji-tails {
+    background-position: -12.8em -22.6em;
+}
+
+.cemoji-tableau {
+    background-position: -14.2em -22.6em;
+}
+
+.cemoji-synology {
+    background-position: -15.6em -22.6em;
+}
+
+.cemoji-sympy {
+    background-position: -17.0em -22.6em;
+}
+
+.cemoji-symphony {
+    background-position: -18.4em -22.6em;
+}
+
+.cemoji-symfony {
+    background-position: -19.8em -22.6em;
+}
+
+.cemoji-symantec {
+    background-position: -21.2em -22.6em;
+}
+
+.cemoji-swiper {
+    background-position: -22.6em -22.6em;
+}
+
+.cemoji-swiggy {
+    background-position: -24.0em -0.2em;
+}
+
+.cemoji-swift {
+    background-position: -24.0em -1.6em;
+}
+
+.cemoji-swarm {
+    background-position: -24.0em -3.0em;
+}
+
+.cemoji-swagger {
+    background-position: -24.0em -4.4em;
+}
+
+.cemoji-svgo {
+    background-position: -24.0em -5.8em;
+}
+
+.cemoji-svg {
+    background-position: -24.0em -7.2em;
+}
+
+.cemoji-svelte {
+    background-position: -24.0em -8.6em;
+}
+
+.cemoji-suzuki {
+    background-position: -24.0em -10.0em;
+}
+
+.cemoji-suse {
+    background-position: -24.0em -11.4em;
+}
+
+.cemoji-surveymonkey {
+    background-position: -24.0em -12.8em;
+}
+
+.cemoji-superuser {
+    background-position: -24.0em -14.2em;
+}
+
+.cemoji-supabase {
+    background-position: -24.0em -15.6em;
+}
+
+.cemoji-sumologic {
+    background-position: -24.0em -17.0em;
+}
+
+.cemoji-suckless {
+    background-position: -24.0em -18.4em;
+}
+
+.cemoji-subversion {
+    background-position: -24.0em -19.8em;
+}
+
+.cemoji-substack {
+    background-position: -24.0em -21.2em;
+}
+
+.cemoji-sublimetext {
+    background-position: -24.0em -22.6em;
+}
+
+.cemoji-subaru {
+    background-position: -0.2em -24.0em;
+}
+
+.cemoji-stylus {
+    background-position: -1.6em -24.0em;
+}
+
+.cemoji-styleshare {
+    background-position: -3.0em -24.0em;
+}
+
+.cemoji-stylelint {
+    background-position: -4.4em -24.0em;
+}
+
+.cemoji-stubhub {
+    background-position: -5.8em -24.0em;
+}
+
+.cemoji-strongswan {
+    background-position: -7.2em -24.0em;
+}
+
+.cemoji-stripe {
+    background-position: -8.6em -24.0em;
+}
+
+.cemoji-streamlit {
+    background-position: -10.0em -24.0em;
+}
+
+.cemoji-strava {
+    background-position: -11.4em -24.0em;
+}
+
+.cemoji-strapi {
+    background-position: -12.8em -24.0em;
+}
+
+.cemoji-storybook {
+    background-position: -14.2em -24.0em;
+}
+
+.cemoji-storyblok {
+    background-position: -15.6em -24.0em;
+}
+
+.cemoji-stmicroelectronics {
+    background-position: -17.0em -24.0em;
+}
+
+.cemoji-stitcher {
+    background-position: -18.4em -24.0em;
+}
+
+.cemoji-stimulus {
+    background-position: -19.8em -24.0em;
+}
+
+.cemoji-stencyl {
+    background-position: -21.2em -24.0em;
+}
+
+.cemoji-stellar {
+    background-position: -22.6em -24.0em;
+}
+
+.cemoji-steinberg {
+    background-position: -24.0em -24.0em;
+}
+
+.cemoji-steemit {
+    background-position: -25.4em -0.2em;
+}
+
+.cemoji-steem {
+    background-position: -25.4em -1.6em;
+}
+
+.cemoji-steamworks {
+    background-position: -25.4em -3.0em;
+}
+
+.cemoji-steamdb {
+    background-position: -25.4em -4.4em;
+}
+
+.cemoji-steam {
+    background-position: -25.4em -5.8em;
+}
+
+.cemoji-statuspal {
+    background-position: -25.4em -7.2em;
+}
+
+.cemoji-statuspage {
+    background-position: -25.4em -8.6em;
+}
+
+.cemoji-statamic {
+    background-position: -25.4em -10.0em;
+}
+
+.cemoji-starz {
+    background-position: -25.4em -11.4em;
+}
+
+.cemoji-startrek {
+    background-position: -25.4em -12.8em;
+}
+
+.cemoji-starship {
+    background-position: -25.4em -14.2em;
+}
+
+.cemoji-starlingbank {
+    background-position: -25.4em -15.6em;
+}
+
+.cemoji-staffbase {
+    background-position: -25.4em -17.0em;
+}
+
+.cemoji-stadia {
+    background-position: -25.4em -18.4em;
+}
+
+.cemoji-stackshare {
+    background-position: -25.4em -19.8em;
+}
+
+.cemoji-stackpath {
+    background-position: -25.4em -21.2em;
+}
+
+.cemoji-stackoverflow {
+    background-position: -25.4em -22.6em;
+}
+
+.cemoji-stackexchange {
+    background-position: -25.4em -24.0em;
+}
+
+.cemoji-stackbit {
+    background-position: -0.2em -25.4em;
+}
+
+.cemoji-ssrn {
+    background-position: -1.6em -25.4em;
+}
+
+.cemoji-squarespace {
+    background-position: -3.0em -25.4em;
+}
+
+.cemoji-squareenix {
+    background-position: -4.4em -25.4em;
+}
+
+.cemoji-square {
+    background-position: -5.8em -25.4em;
+}
+
+.cemoji-sqlite {
+    background-position: -7.2em -25.4em;
+}
+
+.cemoji-spyderide {
+    background-position: -8.6em -25.4em;
+}
+
+.cemoji-springboot {
+    background-position: -10.0em -25.4em;
+}
+
+.cemoji-spring {
+    background-position: -11.4em -25.4em;
+}
+
+.cemoji-spreaker {
+    background-position: -12.8em -25.4em;
+}
+
+.cemoji-spotlight {
+    background-position: -14.2em -25.4em;
+}
+
+.cemoji-spotify {
+    background-position: -15.6em -25.4em;
+}
+
+.cemoji-splunk {
+    background-position: -17.0em -25.4em;
+}
+
+.cemoji-spinrilla {
+    background-position: -18.4em -25.4em;
+}
+
+.cemoji-spinnaker {
+    background-position: -19.8em -25.4em;
+}
+
+.cemoji-speedtest {
+    background-position: -21.2em -25.4em;
+}
+
+.cemoji-spectrum {
+    background-position: -22.6em -25.4em;
+}
+
+.cemoji-speakerdeck {
+    background-position: -24.0em -25.4em;
+}
+
+.cemoji-spdx {
+    background-position: -25.4em -25.4em;
+}
+
+.cemoji-sparkpost {
+    background-position: -26.8em -0.2em;
+}
+
+.cemoji-sparkfun {
+    background-position: -26.8em -1.6em;
+}
+
+.cemoji-sparkasse {
+    background-position: -26.8em -3.0em;
+}
+
+.cemoji-sparkar {
+    background-position: -26.8em -4.4em;
+}
+
+.cemoji-spacex {
+    background-position: -26.8em -5.8em;
+}
+
+.cemoji-spacemacs {
+    background-position: -26.8em -7.2em;
+}
+
+.cemoji-southwestairlines {
+    background-position: -26.8em -8.6em;
+}
+
+.cemoji-sourcegraph {
+    background-position: -26.8em -10.0em;
+}
+
+.cemoji-sourceforge {
+    background-position: -26.8em -11.4em;
+}
+
+.cemoji-sourceengine {
+    background-position: -26.8em -12.8em;
+}
+
+.cemoji-soundcloud {
+    background-position: -26.8em -14.2em;
+}
+
+.cemoji-sonos {
+    background-position: -26.8em -15.6em;
+}
+
+.cemoji-sonicwall {
+    background-position: -26.8em -17.0em;
+}
+
+.cemoji-songoda {
+    background-position: -26.8em -18.4em;
+}
+
+.cemoji-songkick {
+    background-position: -26.8em -19.8em;
+}
+
+.cemoji-sonarsource {
+    background-position: -26.8em -21.2em;
+}
+
+.cemoji-sonarqube {
+    background-position: -26.8em -22.6em;
+}
+
+.cemoji-sonarlint {
+    background-position: -26.8em -24.0em;
+}
+
+.cemoji-sonarcloud {
+    background-position: -26.8em -25.4em;
+}
+
+.cemoji-solus {
+    background-position: -0.2em -26.8em;
+}
+
+.cemoji-sololearn {
+    background-position: -1.6em -26.8em;
+}
+
+.cemoji-solidity {
+    background-position: -3.0em -26.8em;
+}
+
+.cemoji-sogou {
+    background-position: -4.4em -26.8em;
+}
+
+.cemoji-society6 {
+    background-position: -5.8em -26.8em;
+}
+
+.cemoji-snyk {
+    background-position: -7.2em -26.8em;
+}
+
+.cemoji-snowflake {
+    background-position: -8.6em -26.8em;
+}
+
+.cemoji-snapcraft {
+    background-position: -10.0em -26.8em;
+}
+
+.cemoji-snapchat {
+    background-position: -11.4em -26.8em;
+}
+
+.cemoji-smugmug {
+    background-position: -12.8em -26.8em;
+}
+
+.cemoji-smrt {
+    background-position: -14.2em -26.8em;
+}
+
+.cemoji-smashingmagazine {
+    background-position: -15.6em -26.8em;
+}
+
+.cemoji-smartthings {
+    background-position: -17.0em -26.8em;
+}
+
+.cemoji-smart {
+    background-position: -18.4em -26.8em;
+}
+
+.cemoji-slideshare {
+    background-position: -19.8em -26.8em;
+}
+
+.cemoji-slides {
+    background-position: -21.2em -26.8em;
+}
+
+.cemoji-slickpic {
+    background-position: -22.6em -26.8em;
+}
+
+.cemoji-slashdot {
+    background-position: -24.0em -26.8em;
+}
+
+.cemoji-slackware {
+    background-position: -25.4em -26.8em;
+}
+
+.cemoji-slack {
+    background-position: -26.8em -26.8em;
+}
+
+.cemoji-skypeforbusiness {
+    background-position: -28.2em -0.2em;
+}
+
+.cemoji-skype {
+    background-position: -28.2em -1.6em;
+}
+
+.cemoji-skyliner {
+    background-position: -28.2em -3.0em;
+}
+
+.cemoji-sky {
+    background-position: -28.2em -4.4em;
+}
+
+.cemoji-skoda {
+    background-position: -28.2em -5.8em;
+}
+
+.cemoji-skillshare {
+    background-position: -28.2em -7.2em;
+}
+
+.cemoji-sketchup {
+    background-position: -28.2em -8.6em;
+}
+
+.cemoji-sketchfab {
+    background-position: -28.2em -10.0em;
+}
+
+.cemoji-sketch {
+    background-position: -28.2em -11.4em;
+}
+
+.cemoji-sitepoint {
+    background-position: -28.2em -12.8em;
+}
+
+.cemoji-singlestore {
+    background-position: -28.2em -14.2em;
+}
+
+.cemoji-sinaweibo {
+    background-position: -28.2em -15.6em;
+}
+
+.cemoji-simpleicons {
+    background-position: -28.2em -17.0em;
+}
+
+.cemoji-simpleanalytics {
+    background-position: -28.2em -18.4em;
+}
+
+.cemoji-simkl {
+    background-position: -28.2em -19.8em;
+}
+
+.cemoji-signal {
+    background-position: -28.2em -21.2em;
+}
+
+.cemoji-siemens {
+    background-position: -28.2em -22.6em;
+}
+
+.cemoji-shutterstock {
+    background-position: -28.2em -24.0em;
+}
+
+.cemoji-showtime {
+    background-position: -28.2em -25.4em;
+}
+
+.cemoji-showpad {
+    background-position: -28.2em -26.8em;
+}
+
+.cemoji-shotcut {
+    background-position: -0.2em -28.2em;
+}
+
+.cemoji-shopware {
+    background-position: -1.6em -28.2em;
+}
+
+.cemoji-shopify {
+    background-position: -3.0em -28.2em;
+}
+
+.cemoji-shikimori {
+    background-position: -4.4em -28.2em;
+}
+
+.cemoji-shenzhenmetro {
+    background-position: -5.8em -28.2em;
+}
+
+.cemoji-shelly {
+    background-position: -7.2em -28.2em;
+}
+
+.cemoji-shell {
+    background-position: -8.6em -28.2em;
+}
+
+.cemoji-shazam {
+    background-position: -10.0em -28.2em;
+}
+
+.cemoji-sharp {
+    background-position: -11.4em -28.2em;
+}
+
+.cemoji-shanghaimetro {
+    background-position: -12.8em -28.2em;
+}
+
+.cemoji-sfml {
+    background-position: -14.2em -28.2em;
+}
+
+.cemoji-serverless {
+    background-position: -15.6em -28.2em;
+}
+
+.cemoji-serverfault {
+    background-position: -17.0em -28.2em;
+}
+
+.cemoji-sepa {
+    background-position: -18.4em -28.2em;
+}
+
+.cemoji-sentry {
+    background-position: -19.8em -28.2em;
+}
+
+.cemoji-sensu {
+    background-position: -21.2em -28.2em;
+}
+
+.cemoji-sennheiser {
+    background-position: -22.6em -28.2em;
+}
+
+.cemoji-sencha {
+    background-position: -24.0em -28.2em;
+}
+
+.cemoji-semver {
+    background-position: -25.4em -28.2em;
+}
+
+.cemoji-semaphoreci {
+    background-position: -26.8em -28.2em;
+}
+
+.cemoji-semanticweb {
+    background-position: -28.2em -28.2em;
+}
+
+.cemoji-semanticuireact {
+    background-position: -29.6em -0.2em;
+}
+
+.cemoji-sellfy {
+    background-position: -29.6em -1.6em;
+}
+
+.cemoji-selenium {
+    background-position: -29.6em -3.0em;
+}
+
+.cemoji-sega {
+    background-position: -29.6em -4.4em;
+}
+
+.cemoji-sefaria {
+    background-position: -29.6em -5.8em;
+}
+
+.cemoji-seat {
+    background-position: -29.6em -7.2em;
+}
+
+.cemoji-seagate {
+    background-position: -29.6em -8.6em;
+}
+
+.cemoji-scrutinizerci {
+    background-position: -29.6em -10.0em;
+}
+
+.cemoji-scrumalliance {
+    background-position: -29.6em -11.4em;
+}
+
+.cemoji-scrollreveal {
+    background-position: -29.6em -12.8em;
+}
+
+.cemoji-scrimba {
+    background-position: -29.6em -14.2em;
+}
+
+.cemoji-scribd {
+    background-position: -29.6em -15.6em;
+}
+
+.cemoji-screencastify {
+    background-position: -29.6em -17.0em;
+}
+
+.cemoji-scratch {
+    background-position: -29.6em -18.4em;
+}
+
+.cemoji-scopus {
+    background-position: -29.6em -19.8em;
+}
+
+.cemoji-scipy {
+    background-position: -29.6em -21.2em;
+}
+
+.cemoji-scania {
+    background-position: -29.6em -22.6em;
+}
+
+.cemoji-scaleway {
+    background-position: -29.6em -24.0em;
+}
+
+.cemoji-scala {
+    background-position: -29.6em -25.4em;
+}
+
+.cemoji-saucelabs {
+    background-position: -29.6em -26.8em;
+}
+
+.cemoji-sass {
+    background-position: -29.6em -28.2em;
+}
+
+.cemoji-sap {
+    background-position: -0.2em -29.6em;
+}
+
+.cemoji-saopaulometro {
+    background-position: -1.6em -29.6em;
+}
+
+.cemoji-sanfranciscomunicipalrailway {
+    background-position: -3.0em -29.6em;
+}
+
+.cemoji-samsungpay {
+    background-position: -4.4em -29.6em;
+}
+
+.cemoji-samsung {
+    background-position: -5.8em -29.6em;
+}
+
+.cemoji-saltstack {
+    background-position: -7.2em -29.6em;
+}
+
+.cemoji-salesforce {
+    background-position: -8.6em -29.6em;
+}
+
+.cemoji-sahibinden {
+    background-position: -10.0em -29.6em;
+}
+
+.cemoji-safari {
+    background-position: -11.4em -29.6em;
+}
+
+.cemoji-s7airlines {
+    background-position: -12.8em -29.6em;
+}
+
+.cemoji-ryanair {
+    background-position: -14.2em -29.6em;
+}
+
+.cemoji-rxdb {
+    background-position: -15.6em -29.6em;
+}
+
+.cemoji-rust {
+    background-position: -17.0em -29.6em;
+}
+
+.cemoji-runkit {
+    background-position: -18.4em -29.6em;
+}
+
+.cemoji-runkeeper {
+    background-position: -19.8em -29.6em;
+}
+
+.cemoji-rubyonrails {
+    background-position: -21.2em -29.6em;
+}
+
+.cemoji-rubygems {
+    background-position: -22.6em -29.6em;
+}
+
+.cemoji-ruby {
+    background-position: -24.0em -29.6em;
+}
+
+.cemoji-rtlzwei {
+    background-position: -25.4em -29.6em;
+}
+
+.cemoji-rtl {
+    background-position: -26.8em -29.6em;
+}
+
+.cemoji-rte {
+    background-position: -28.2em -29.6em;
+}
+
+.cemoji-rstudio {
+    background-position: -29.6em -29.6em;
+}
+
+.cemoji-rss {
+    background-position: -31.0em -0.2em;
+}
+
+.cemoji-roundcube {
+    background-position: -31.0em -1.6em;
+}
+
+.cemoji-rottentomatoes {
+    background-position: -31.0em -3.0em;
+}
+
+.cemoji-ros {
+    background-position: -31.0em -4.4em;
+}
+
+.cemoji-rootssage {
+    background-position: -31.0em -5.8em;
+}
+
+.cemoji-rootsbedrock {
+    background-position: -31.0em -7.2em;
+}
+
+.cemoji-roots {
+    background-position: -31.0em -8.6em;
+}
+
+.cemoji-roku {
+    background-position: -31.0em -10.0em;
+}
+
+.cemoji-robotframework {
+    background-position: -31.0em -11.4em;
+}
+
+.cemoji-roblox {
+    background-position: -31.0em -12.8em;
+}
+
+.cemoji-roamresearch {
+    background-position: -31.0em -14.2em;
+}
+
+.cemoji-riseup {
+    background-position: -31.0em -15.6em;
+}
+
+.cemoji-ripple {
+    background-position: -31.0em -17.0em;
+}
+
+.cemoji-riotgames {
+    background-position: -31.0em -18.4em;
+}
+
+.cemoji-ring {
+    background-position: -31.0em -19.8em;
+}
+
+.cemoji-rider {
+    background-position: -31.0em -21.2em;
+}
+
+.cemoji-rhinoceros {
+    background-position: -31.0em -22.6em;
+}
+
+.cemoji-rezgo {
+    background-position: -31.0em -24.0em;
+}
+
+.cemoji-rewe {
+    background-position: -31.0em -25.4em;
+}
+
+.cemoji-revue {
+    background-position: -31.0em -26.8em;
+}
+
+.cemoji-revolut {
+    background-position: -31.0em -28.2em;
+}
+
+.cemoji-reverbnation {
+    background-position: -31.0em -29.6em;
+}
+
+.cemoji-retropie {
+    background-position: -0.2em -31.0em;
+}
+
+.cemoji-retroarch {
+    background-position: -1.6em -31.0em;
+}
+
+.cemoji-resurrectionremixos {
+    background-position: -3.0em -31.0em;
+}
+
+.cemoji-researchgate {
+    background-position: -4.4em -31.0em;
+}
+
+.cemoji-replit {
+    background-position: -5.8em -31.0em;
+}
+
+.cemoji-renren {
+    background-position: -7.2em -31.0em;
+}
+
+.cemoji-renpy {
+    background-position: -8.6em -31.0em;
+}
+
+.cemoji-renovatebot {
+    background-position: -10.0em -31.0em;
+}
+
+.cemoji-renault {
+    background-position: -11.4em -31.0em;
+}
+
+.cemoji-relianceindustrieslimited {
+    background-position: -12.8em -31.0em;
+}
+
+.cemoji-redwoodjs {
+    background-position: -14.2em -31.0em;
+}
+
+.cemoji-redux {
+    background-position: -15.6em -31.0em;
+}
+
+.cemoji-redis {
+    background-position: -17.0em -31.0em;
+}
+
+.cemoji-redhatopenshift {
+    background-position: -18.4em -31.0em;
+}
+
+.cemoji-redhat {
+    background-position: -19.8em -31.0em;
+}
+
+.cemoji-reddit {
+    background-position: -21.2em -31.0em;
+}
+
+.cemoji-redbubble {
+    background-position: -22.6em -31.0em;
+}
+
+.cemoji-reasonstudios {
+    background-position: -24.0em -31.0em;
+}
+
+.cemoji-reason {
+    background-position: -25.4em -31.0em;
+}
+
+.cemoji-realm {
+    background-position: -26.8em -31.0em;
+}
+
+.cemoji-readthedocs {
+    background-position: -28.2em -31.0em;
+}
+
+.cemoji-reactrouter {
+    background-position: -29.6em -31.0em;
+}
+
+.cemoji-reactos {
+    background-position: -31.0em -31.0em;
+}
+
+.cemoji-reactivex {
+    background-position: -32.4em -0.2em;
+}
+
+.cemoji-react {
+    background-position: -32.4em -1.6em;
+}
+
+.cemoji-razer {
+    background-position: -32.4em -3.0em;
+}
+
+.cemoji-raspberrypi {
+    background-position: -32.4em -4.4em;
+}
+
+.cemoji-rancher {
+    background-position: -32.4em -5.8em;
+}
+
+.cemoji-ram {
+    background-position: -32.4em -7.2em;
+}
+
+.cemoji-rakuten {
+    background-position: -32.4em -8.6em;
+}
+
+.cemoji-rainmeter {
+    background-position: -32.4em -10.0em;
+}
+
+.cemoji-radiopublic {
+    background-position: -32.4em -11.4em;
+}
+
+.cemoji-radar {
+    background-position: -32.4em -12.8em;
+}
+
+.cemoji-racket {
+    background-position: -32.4em -14.2em;
+}
+
+.cemoji-rabbitmq {
+    background-position: -32.4em -15.6em;
+}
+
+.cemoji-r3 {
+    background-position: -32.4em -17.0em;
+}
+
+.cemoji-r {
+    background-position: -32.4em -18.4em;
+}
+
+.cemoji-qzone {
+    background-position: -32.4em -19.8em;
+}
+
+.cemoji-qwiklabs {
+    background-position: -32.4em -21.2em;
+}
+
+.cemoji-quora {
+    background-position: -32.4em -22.6em;
+}
+
+.cemoji-quip {
+    background-position: -32.4em -24.0em;
+}
+
+.cemoji-quicktime {
+    background-position: -32.4em -25.4em;
+}
+
+.cemoji-quickbooks {
+    background-position: -32.4em -26.8em;
+}
+
+.cemoji-quest {
+    background-position: -32.4em -28.2em;
+}
+
+.cemoji-qubesos {
+    background-position: -32.4em -29.6em;
+}
+
+.cemoji-quasar {
+    background-position: -32.4em -31.0em;
+}
+
+.cemoji-quarkus {
+    background-position: -0.2em -32.4em;
+}
+
+.cemoji-quantconnect {
+    background-position: -1.6em -32.4em;
+}
+
+.cemoji-quantcast {
+    background-position: -3.0em -32.4em;
+}
+
+.cemoji-qualtrics {
+    background-position: -4.4em -32.4em;
+}
+
+.cemoji-qualcomm {
+    background-position: -5.8em -32.4em;
+}
+
+.cemoji-qt {
+    background-position: -7.2em -32.4em;
+}
+
+.cemoji-qiwi {
+    background-position: -8.6em -32.4em;
+}
+
+.cemoji-qiskit {
+    background-position: -10.0em -32.4em;
+}
+
+.cemoji-qiita {
+    background-position: -11.4em -32.4em;
+}
+
+.cemoji-qi {
+    background-position: -12.8em -32.4em;
+}
+
+.cemoji-qgis {
+    background-position: -14.2em -32.4em;
+}
+
+.cemoji-qemu {
+    background-position: -15.6em -32.4em;
+}
+
+.cemoji-qatarairways {
+    background-position: -17.0em -32.4em;
+}
+
+.cemoji-qantas {
+    background-position: -18.4em -32.4em;
+}
+
+.cemoji-pyup {
+    background-position: -19.8em -32.4em;
+}
+
+.cemoji-pytorchlightning {
+    background-position: -21.2em -32.4em;
+}
+
+.cemoji-pytorch {
+    background-position: -22.6em -32.4em;
+}
+
+.cemoji-python {
+    background-position: -24.0em -32.4em;
+}
+
+.cemoji-pypy {
+    background-position: -25.4em -32.4em;
+}
+
+.cemoji-pypi {
+    background-position: -26.8em -32.4em;
+}
+
+.cemoji-pycharm {
+    background-position: -28.2em -32.4em;
+}
+
+.cemoji-pusher {
+    background-position: -29.6em -32.4em;
+}
+
+.cemoji-purism {
+    background-position: -31.0em -32.4em;
+}
+
+.cemoji-purgecss {
+    background-position: -32.4em -32.4em;
+}
+
+.cemoji-purescript {
+    background-position: -33.8em -0.2em;
+}
+
+.cemoji-puppeteer {
+    background-position: -33.8em -1.6em;
+}
+
+.cemoji-puppet {
+    background-position: -33.8em -3.0em;
+}
+
+.cemoji-pug {
+    background-position: -33.8em -4.4em;
+}
+
+.cemoji-pubmed {
+    background-position: -33.8em -5.8em;
+}
+
+.cemoji-publons {
+    background-position: -33.8em -7.2em;
+}
+
+.cemoji-proxmox {
+    background-position: -33.8em -8.6em;
+}
+
+.cemoji-protools {
+    background-position: -33.8em -10.0em;
+}
+
+.cemoji-protonvpn {
+    background-position: -33.8em -11.4em;
+}
+
+.cemoji-protonmail {
+    background-position: -33.8em -12.8em;
+}
+
+.cemoji-protondb {
+    background-position: -33.8em -14.2em;
+}
+
+.cemoji-prosieben {
+    background-position: -33.8em -15.6em;
+}
+
+.cemoji-prometheus {
+    background-position: -33.8em -17.0em;
+}
+
+.cemoji-progress {
+    background-position: -33.8em -18.4em;
+}
+
+.cemoji-progate {
+    background-position: -33.8em -19.8em;
+}
+
+.cemoji-producthunt {
+    background-position: -33.8em -21.2em;
+}
+
+.cemoji-processwire {
+    background-position: -33.8em -22.6em;
+}
+
+.cemoji-processingfoundation {
+    background-position: -33.8em -24.0em;
+}
+
+.cemoji-probot {
+    background-position: -33.8em -25.4em;
+}
+
+.cemoji-privateinternetaccess {
+    background-position: -33.8em -26.8em;
+}
+
+.cemoji-prismic {
+    background-position: -33.8em -28.2em;
+}
+
+.cemoji-prisma {
+    background-position: -33.8em -29.6em;
+}
+
+.cemoji-primevideo {
+    background-position: -33.8em -31.0em;
+}
+
+.cemoji-prime {
+    background-position: -33.8em -32.4em;
+}
+
+.cemoji-prezi {
+    background-position: -0.2em -33.8em;
+}
+
+.cemoji-prettier {
+    background-position: -1.6em -33.8em;
+}
+
+.cemoji-presto {
+    background-position: -3.0em -33.8em;
+}
+
+.cemoji-prestashop {
+    background-position: -4.4em -33.8em;
+}
+
+.cemoji-premierleague {
+    background-position: -5.8em -33.8em;
+}
+
+.cemoji-powershell {
+    background-position: -7.2em -33.8em;
+}
+
+.cemoji-powers {
+    background-position: -8.6em -33.8em;
+}
+
+.cemoji-powerbi {
+    background-position: -10.0em -33.8em;
+}
+
+.cemoji-postmates {
+    background-position: -11.4em -33.8em;
+}
+
+.cemoji-postman {
+    background-position: -12.8em -33.8em;
+}
+
+.cemoji-postgresql {
+    background-position: -14.2em -33.8em;
+}
+
+.cemoji-postcss {
+    background-position: -15.6em -33.8em;
+}
+
+.cemoji-porsche {
+    background-position: -17.0em -33.8em;
+}
+
+.cemoji-polymerproject {
+    background-position: -18.4em -33.8em;
+}
+
+.cemoji-poly {
+    background-position: -19.8em -33.8em;
+}
+
+.cemoji-pokemon {
+    background-position: -21.2em -33.8em;
+}
+
+.cemoji-pointy {
+    background-position: -22.6em -33.8em;
+}
+
+.cemoji-podman {
+    background-position: -24.0em -33.8em;
+}
+
+.cemoji-podcastaddict {
+    background-position: -25.4em -33.8em;
+}
+
+.cemoji-pocketcasts {
+    background-position: -26.8em -33.8em;
+}
+
+.cemoji-pocket {
+    background-position: -28.2em -33.8em;
+}
+
+.cemoji-pnpm {
+    background-position: -29.6em -33.8em;
+}
+
+.cemoji-pm2 {
+    background-position: -31.0em -33.8em;
+}
+
+.cemoji-pluscodes {
+    background-position: -32.4em -33.8em;
+}
+
+.cemoji-plurk {
+    background-position: -33.8em -33.8em;
+}
+
+.cemoji-pluralsight {
+    background-position: -35.2em -0.2em;
+}
+
+.cemoji-plotly {
+    background-position: -35.2em -1.6em;
+}
+
+.cemoji-plex {
+    background-position: -35.2em -3.0em;
+}
+
+.cemoji-plesk {
+    background-position: -35.2em -4.4em;
+}
+
+.cemoji-pleroma {
+    background-position: -35.2em -5.8em;
+}
+
+.cemoji-playstationvita {
+    background-position: -35.2em -7.2em;
+}
+
+.cemoji-playstation5 {
+    background-position: -35.2em -8.6em;
+}
+
+.cemoji-playstation4 {
+    background-position: -35.2em -10.0em;
+}
+
+.cemoji-playstation3 {
+    background-position: -35.2em -11.4em;
+}
+
+.cemoji-playstation2 {
+    background-position: -35.2em -12.8em;
+}
+
+.cemoji-playstation {
+    background-position: -35.2em -14.2em;
+}
+
+.cemoji-playerfm {
+    background-position: -35.2em -15.6em;
+}
+
+.cemoji-playcanvas {
+    background-position: -35.2em -17.0em;
+}
+
+.cemoji-platzi {
+    background-position: -35.2em -18.4em;
+}
+
+.cemoji-plangrid {
+    background-position: -35.2em -19.8em;
+}
+
+.cemoji-planet {
+    background-position: -35.2em -21.2em;
+}
+
+.cemoji-pjsip {
+    background-position: -35.2em -22.6em;
+}
+
+.cemoji-pixiv {
+    background-position: -35.2em -24.0em;
+}
+
+.cemoji-pixabay {
+    background-position: -35.2em -25.4em;
+}
+
+.cemoji-piwigo {
+    background-position: -35.2em -26.8em;
+}
+
+.cemoji-pivotaltracker {
+    background-position: -35.2em -28.2em;
+}
+
+.cemoji-pioneerdj {
+    background-position: -35.2em -29.6em;
+}
+
+.cemoji-pinterest {
+    background-position: -35.2em -31.0em;
+}
+
+.cemoji-pingdom {
+    background-position: -35.2em -32.4em;
+}
+
+.cemoji-pinboard {
+    background-position: -35.2em -33.8em;
+}
+
+.cemoji-pimcore {
+    background-position: -0.2em -35.2em;
+}
+
+.cemoji-picpay {
+    background-position: -1.6em -35.2em;
+}
+
+.cemoji-picnic {
+    background-position: -3.0em -35.2em;
+}
+
+.cemoji-phpstorm {
+    background-position: -4.4em -35.2em;
+}
+
+.cemoji-php {
+    background-position: -5.8em -35.2em;
+}
+
+.cemoji-photopea {
+    background-position: -7.2em -35.2em;
+}
+
+.cemoji-photocrowd {
+    background-position: -8.6em -35.2em;
+}
+
+.cemoji-photobucket {
+    background-position: -10.0em -35.2em;
+}
+
+.cemoji-phonepe {
+    background-position: -11.4em -35.2em;
+}
+
+.cemoji-philipshue {
+    background-position: -12.8em -35.2em;
+}
+
+.cemoji-phabricator {
+    background-position: -14.2em -35.2em;
+}
+
+.cemoji-pfsense {
+    background-position: -15.6em -35.2em;
+}
+
+.cemoji-pexels {
+    background-position: -17.0em -35.2em;
+}
+
+.cemoji-peugeot {
+    background-position: -18.4em -35.2em;
+}
+
+.cemoji-perl {
+    background-position: -19.8em -35.2em;
+}
+
+.cemoji-perforce {
+    background-position: -21.2em -35.2em;
+}
+
+.cemoji-pepsi {
+    background-position: -22.6em -35.2em;
+}
+
+.cemoji-peloton {
+    background-position: -24.0em -35.2em;
+}
+
+.cemoji-pelican {
+    background-position: -25.4em -35.2em;
+}
+
+.cemoji-pegasusairlines {
+    background-position: -26.8em -35.2em;
+}
+
+.cemoji-peertube {
+    background-position: -28.2em -35.2em;
+}
+
+.cemoji-pcgamingwiki {
+    background-position: -29.6em -35.2em;
+}
+
+.cemoji-paytm {
+    background-position: -31.0em -35.2em;
+}
+
+.cemoji-paypal {
+    background-position: -32.4em -35.2em;
+}
+
+.cemoji-payoneer {
+    background-position: -33.8em -35.2em;
+}
+
+.cemoji-patreon {
+    background-position: -35.2em -35.2em;
+}
+
+.cemoji-pastebin {
+    background-position: -36.6em -0.2em;
+}
+
+.cemoji-passport {
+    background-position: -36.6em -1.6em;
+}
+
+.cemoji-paritysubstrate {
+    background-position: -36.6em -3.0em;
+}
+
+.cemoji-pantheon {
+    background-position: -36.6em -4.4em;
+}
+
+.cemoji-pandora {
+    background-position: -36.6em -5.8em;
+}
+
+.cemoji-pandas {
+    background-position: -36.6em -7.2em;
+}
+
+.cemoji-paloaltosoftware {
+    background-position: -36.6em -8.6em;
+}
+
+.cemoji-palantir {
+    background-position: -36.6em -10.0em;
+}
+
+.cemoji-pagseguro {
+    background-position: -36.6em -11.4em;
+}
+
+.cemoji-pagespeedinsights {
+    background-position: -36.6em -12.8em;
+}
+
+.cemoji-pagerduty {
+    background-position: -36.6em -14.2em;
+}
+
+.cemoji-pagekit {
+    background-position: -36.6em -15.6em;
+}
+
+.cemoji-paddypower {
+    background-position: -36.6em -17.0em;
+}
+
+.cemoji-packagist {
+    background-position: -36.6em -18.4em;
+}
+
+.cemoji-oyo {
+    background-position: -36.6em -19.8em;
+}
+
+.cemoji-oxygen {
+    background-position: -36.6em -21.2em;
+}
+
+.cemoji-owasp {
+    background-position: -36.6em -22.6em;
+}
+
+.cemoji-ovh {
+    background-position: -36.6em -24.0em;
+}
+
+.cemoji-overleaf {
+    background-position: -36.6em -25.4em;
+}
+
+.cemoji-overcast {
+    background-position: -36.6em -26.8em;
+}
+
+.cemoji-output1 {
+    background-position: -36.6em -28.2em;
+}
+
+.cemoji-osu {
+    background-position: -36.6em -29.6em;
+}
+
+.cemoji-osmc {
+    background-position: -36.6em -31.0em;
+}
+
+.cemoji-oshkosh {
+    background-position: -36.6em -32.4em;
+}
+
+.cemoji-osano {
+    background-position: -36.6em -33.8em;
+}
+
+.cemoji-origin {
+    background-position: -36.6em -35.2em;
+}
+
+.cemoji-org {
+    background-position: -0.2em -36.6em;
+}
+
+.cemoji-orcid {
+    background-position: -1.6em -36.6em;
+}
+
+.cemoji-oracle {
+    background-position: -3.0em -36.6em;
+}
+
+.cemoji-opslevel {
+    background-position: -4.4em -36.6em;
+}
+
+.cemoji-opsgenie {
+    background-position: -5.8em -36.6em;
+}
+
+.cemoji-opnsense {
+    background-position: -7.2em -36.6em;
+}
+
+.cemoji-opera {
+    background-position: -8.6em -36.6em;
+}
+
+.cemoji-openwrt {
+    background-position: -10.0em -36.6em;
+}
+
+.cemoji-openvpn {
+    background-position: -11.4em -36.6em;
+}
+
+.cemoji-opensuse {
+    background-position: -12.8em -36.6em;
+}
+
+.cemoji-openstreetmap {
+    background-position: -14.2em -36.6em;
+}
+
+.cemoji-openstack {
+    background-position: -15.6em -36.6em;
+}
+
+.cemoji-openssl {
+    background-position: -17.0em -36.6em;
+}
+
+.cemoji-opensourceinitiative {
+    background-position: -18.4em -36.6em;
+}
+
+.cemoji-opennebula {
+    background-position: -19.8em -36.6em;
+}
+
+.cemoji-openlayers {
+    background-position: -21.2em -36.6em;
+}
+
+.cemoji-openid {
+    background-position: -22.6em -36.6em;
+}
+
+.cemoji-opengl {
+    background-position: -24.0em -36.6em;
+}
+
+.cemoji-openfaas {
+    background-position: -25.4em -36.6em;
+}
+
+.cemoji-opencv {
+    background-position: -26.8em -36.6em;
+}
+
+.cemoji-opencontainersinitiative {
+    background-position: -28.2em -36.6em;
+}
+
+.cemoji-opencollective {
+    background-position: -29.6em -36.6em;
+}
+
+.cemoji-openbugbounty {
+    background-position: -31.0em -36.6em;
+}
+
+.cemoji-openbsd {
+    background-position: -32.4em -36.6em;
+}
+
+.cemoji-openbadges {
+    background-position: -33.8em -36.6em;
+}
+
+.cemoji-openapiinitiative {
+    background-position: -35.2em -36.6em;
+}
+
+.cemoji-openaigym {
+    background-position: -36.6em -36.6em;
+}
+
+.cemoji-openai {
+    background-position: -38.0em -0.2em;
+}
+
+.cemoji-openaccess {
+    background-position: -38.0em -1.6em;
+}
+
+.cemoji-opel {
+    background-position: -38.0em -3.0em;
+}
+
+.cemoji-onstar {
+    background-position: -38.0em -4.4em;
+}
+
+.cemoji-onnx {
+    background-position: -38.0em -5.8em;
+}
+
+.cemoji-onlyfans {
+    background-position: -38.0em -7.2em;
+}
+
+.cemoji-oneplus {
+    background-position: -38.0em -8.6em;
+}
+
+.cemoji-okta {
+    background-position: -38.0em -10.0em;
+}
+
+.cemoji-okcupid {
+    background-position: -38.0em -11.4em;
+}
+
+.cemoji-odysee {
+    background-position: -38.0em -12.8em;
+}
+
+.cemoji-odnoklassniki {
+    background-position: -38.0em -14.2em;
+}
+
+.cemoji-oculus {
+    background-position: -38.0em -15.6em;
+}
+
+.cemoji-octopusdeploy {
+    background-position: -38.0em -17.0em;
+}
+
+.cemoji-octave {
+    background-position: -38.0em -18.4em;
+}
+
+.cemoji-ocaml {
+    background-position: -38.0em -19.8em;
+}
+
+.cemoji-obsstudio {
+    background-position: -38.0em -21.2em;
+}
+
+.cemoji-observable {
+    background-position: -38.0em -22.6em;
+}
+
+.cemoji-nx {
+    background-position: -38.0em -24.0em;
+}
+
+.cemoji-nvidia {
+    background-position: -38.0em -25.4em;
+}
+
+.cemoji-nutanix {
+    background-position: -38.0em -26.8em;
+}
+
+.cemoji-numpy {
+    background-position: -38.0em -28.2em;
+}
+
+.cemoji-numba {
+    background-position: -38.0em -29.6em;
+}
+
+.cemoji-nuke {
+    background-position: -38.0em -31.0em;
+}
+
+.cemoji-nuget {
+    background-position: -38.0em -32.4em;
+}
+
+.cemoji-nucleo {
+    background-position: -38.0em -33.8em;
+}
+
+.cemoji-nubank {
+    background-position: -38.0em -35.2em;
+}
+
+.cemoji-nrwl {
+    background-position: -38.0em -36.6em;
+}
+
+.cemoji-npm {
+    background-position: -0.2em -38.0em;
+}
+
+.cemoji-nounproject {
+    background-position: -1.6em -38.0em;
+}
+
+.cemoji-notist {
+    background-position: -3.0em -38.0em;
+}
+
+.cemoji-notion {
+    background-position: -4.4em -38.0em;
+}
+
+.cemoji-notepadplusplus {
+    background-position: -5.8em -38.0em;
+}
+
+.cemoji-norwegian {
+    background-position: -7.2em -38.0em;
+}
+
+.cemoji-nokia {
+    background-position: -8.6em -38.0em;
+}
+
+.cemoji-nodemon {
+    background-position: -10.0em -38.0em;
+}
+
+.cemoji-nixos {
+    background-position: -11.4em -38.0em;
+}
+
+.cemoji-nissan {
+    background-position: -12.8em -38.0em;
+}
+
+.cemoji-nintendoswitch {
+    background-position: -14.2em -38.0em;
+}
+
+.cemoji-nintendonetwork {
+    background-position: -15.6em -38.0em;
+}
+
+.cemoji-nintendogamecube {
+    background-position: -17.0em -38.0em;
+}
+
+.cemoji-nintendo3ds {
+    background-position: -18.4em -38.0em;
+}
+
+.cemoji-nintendo {
+    background-position: -19.8em -38.0em;
+}
+
+.cemoji-nim {
+    background-position: -21.2em -38.0em;
+}
+
+.cemoji-niconico {
+    background-position: -22.6em -38.0em;
+}
+
+.cemoji-ngrok {
+    background-position: -24.0em -38.0em;
+}
+
+.cemoji-nginx {
+    background-position: -25.4em -38.0em;
+}
+
+.cemoji-nfc {
+    background-position: -26.8em -38.0em;
+}
+
+.cemoji-nextdoor {
+    background-position: -28.2em -38.0em;
+}
+
+.cemoji-nextcloud {
+    background-position: -29.6em -38.0em;
+}
+
+.cemoji-newyorktimes {
+    background-position: -31.0em -38.0em;
+}
+
+.cemoji-newrelic {
+    background-position: -32.4em -38.0em;
+}
+
+.cemoji-netlify {
+    background-position: -33.8em -38.0em;
+}
+
+.cemoji-netflix {
+    background-position: -35.2em -38.0em;
+}
+
+.cemoji-netapp {
+    background-position: -36.6em -38.0em;
+}
+
+.cemoji-nestjs {
+    background-position: -38.0em -38.0em;
+}
+
+.cemoji-neovim {
+    background-position: -39.4em -0.2em;
+}
+
+.cemoji-neo4j {
+    background-position: -39.4em -1.6em;
+}
+
+.cemoji-nec {
+    background-position: -39.4em -3.0em;
+}
+
+.cemoji-ndr {
+    background-position: -39.4em -4.4em;
+}
+
+.cemoji-nbb {
+    background-position: -39.4em -5.8em;
+}
+
+.cemoji-nba {
+    background-position: -39.4em -7.2em;
+}
+
+.cemoji-naver {
+    background-position: -39.4em -8.6em;
+}
+
+.cemoji-nativescript {
+    background-position: -39.4em -10.0em;
+}
+
+.cemoji-nationalgrid {
+    background-position: -39.4em -11.4em;
+}
+
+.cemoji-nasa {
+    background-position: -39.4em -12.8em;
+}
+
+.cemoji-nano {
+    background-position: -39.4em -14.2em;
+}
+
+.cemoji-namecheap {
+    background-position: -39.4em -15.6em;
+}
+
+.cemoji-namebase {
+    background-position: -39.4em -17.0em;
+}
+
+.cemoji-n26 {
+    background-position: -39.4em -18.4em;
+}
+
+.cemoji-mysql {
+    background-position: -39.4em -19.8em;
+}
+
+.cemoji-myspace {
+    background-position: -39.4em -21.2em;
+}
+
+.cemoji-myob {
+    background-position: -39.4em -22.6em;
+}
+
+.cemoji-myanimelist {
+    background-position: -39.4em -24.0em;
+}
+
+.cemoji-mxlinux {
+    background-position: -39.4em -25.4em;
+}
+
+.cemoji-musicbrainz {
+    background-position: -39.4em -26.8em;
+}
+
+.cemoji-musescore {
+    background-position: -39.4em -28.2em;
+}
+
+.cemoji-mumble {
+    background-position: -39.4em -29.6em;
+}
+
+.cemoji-mtr {
+    background-position: -39.4em -31.0em;
+}
+
+.cemoji-mta {
+    background-position: -39.4em -32.4em;
+}
+
+.cemoji-mozilla {
+    background-position: -39.4em -33.8em;
+}
+
+.cemoji-motorola {
+    background-position: -39.4em -35.2em;
+}
+
+.cemoji-moscowmetro {
+    background-position: -39.4em -36.6em;
+}
+
+.cemoji-moo {
+    background-position: -39.4em -38.0em;
+}
+
+.cemoji-monzo {
+    background-position: -0.2em -39.4em;
+}
+
+.cemoji-monster {
+    background-position: -1.6em -39.4em;
+}
+
+.cemoji-monkeytie {
+    background-position: -3.0em -39.4em;
+}
+
+.cemoji-mongodb {
+    background-position: -4.4em -39.4em;
+}
+
+.cemoji-monero {
+    background-position: -5.8em -39.4em;
+}
+
+.cemoji-momenteo {
+    background-position: -7.2em -39.4em;
+}
+
+.cemoji-moleculer {
+    background-position: -8.6em -39.4em;
+}
+
+.cemoji-mojangstudios {
+    background-position: -10.0em -39.4em;
+}
+
+.cemoji-modx {
+    background-position: -11.4em -39.4em;
+}
+
+.cemoji-mocha {
+    background-position: -12.8em -39.4em;
+}
+
+.cemoji-mobx {
+    background-position: -14.2em -39.4em;
+}
+
+.cemoji-mixcloud {
+    background-position: -15.6em -39.4em;
+}
+
+.cemoji-mix {
+    background-position: -17.0em -39.4em;
+}
+
+.cemoji-mitsubishi {
+    background-position: -18.4em -39.4em;
+}
+
+.cemoji-miro {
+    background-position: -19.8em -39.4em;
+}
+
+.cemoji-minutemailer {
+    background-position: -21.2em -39.4em;
+}
+
+.cemoji-mini {
+    background-position: -22.6em -39.4em;
+}
+
+.cemoji-minetest {
+    background-position: -24.0em -39.4em;
+}
+
+.cemoji-minecraft {
+    background-position: -25.4em -39.4em;
+}
+
+.cemoji-minds {
+    background-position: -26.8em -39.4em;
+}
+
+.cemoji-midi {
+    background-position: -28.2em -39.4em;
+}
+
+.cemoji-microstrategy {
+    background-position: -29.6em -39.4em;
+}
+
+.cemoji-microsoftword {
+    background-position: -31.0em -39.4em;
+}
+
+.cemoji-microsoftvisio {
+    background-position: -32.4em -39.4em;
+}
+
+.cemoji-microsoftteams {
+    background-position: -33.8em -39.4em;
+}
+
+.cemoji-microsoftsqlserver {
+    background-position: -35.2em -39.4em;
+}
+
+.cemoji-microsoftsharepoint {
+    background-position: -36.6em -39.4em;
+}
+
+.cemoji-microsoftpowerpoint {
+    background-position: -38.0em -39.4em;
+}
+
+.cemoji-microsoftoutlook {
+    background-position: -39.4em -39.4em;
+}
+
+.cemoji-microsoftonenote {
+    background-position: -40.8em -0.2em;
+}
+
+.cemoji-microsoftonedrive {
+    background-position: -40.8em -1.6em;
+}
+
+.cemoji-microsoftoffice {
+    background-position: -40.8em -3.0em;
+}
+
+.cemoji-microsoftexchange {
+    background-position: -40.8em -4.4em;
+}
+
+.cemoji-microsoftexcel {
+    background-position: -40.8em -5.8em;
+}
+
+.cemoji-microsoftedge {
+    background-position: -40.8em -7.2em;
+}
+
+.cemoji-microsoftbing {
+    background-position: -40.8em -8.6em;
+}
+
+.cemoji-microsoftazure {
+    background-position: -40.8em -10.0em;
+}
+
+.cemoji-microsoftaccess {
+    background-position: -40.8em -11.4em;
+}
+
+.cemoji-microsoftacademic {
+    background-position: -40.8em -12.8em;
+}
+
+.cemoji-microsoft {
+    background-position: -40.8em -14.2em;
+}
+
+.cemoji-micropython {
+    background-position: -40.8em -15.6em;
+}
+
+.cemoji-microgenetics {
+    background-position: -40.8em -17.0em;
+}
+
+.cemoji-microbit {
+    background-position: -40.8em -18.4em;
+}
+
+.cemoji-mewe {
+    background-position: -40.8em -19.8em;
+}
+
+.cemoji-metrodeparis {
+    background-position: -40.8em -21.2em;
+}
+
+.cemoji-metrodemadrid {
+    background-position: -40.8em -22.6em;
+}
+
+.cemoji-metrodelaciudaddemexico {
+    background-position: -40.8em -24.0em;
+}
+
+.cemoji-metro {
+    background-position: -40.8em -25.4em;
+}
+
+.cemoji-meteor {
+    background-position: -40.8em -26.8em;
+}
+
+.cemoji-metafilter {
+    background-position: -40.8em -28.2em;
+}
+
+.cemoji-metabase {
+    background-position: -40.8em -29.6em;
+}
+
+.cemoji-messenger {
+    background-position: -40.8em -31.0em;
+}
+
+.cemoji-mercurial {
+    background-position: -40.8em -32.4em;
+}
+
+.cemoji-mercedes {
+    background-position: -40.8em -33.8em;
+}
+
+.cemoji-mendeley {
+    background-position: -40.8em -35.2em;
+}
+
+.cemoji-mega {
+    background-position: -40.8em -36.6em;
+}
+
+.cemoji-meetup {
+    background-position: -40.8em -38.0em;
+}
+
+.cemoji-medium {
+    background-position: -40.8em -39.4em;
+}
+
+.cemoji-mediatemple {
+    background-position: -0.2em -40.8em;
+}
+
+.cemoji-mediatek {
+    background-position: -1.6em -40.8em;
+}
+
+.cemoji-mediafire {
+    background-position: -3.0em -40.8em;
+}
+
+.cemoji-mdnwebdocs {
+    background-position: -4.4em -40.8em;
+}
+
+.cemoji-mclaren {
+    background-position: -5.8em -40.8em;
+}
+
+.cemoji-mcdonalds {
+    background-position: -7.2em -40.8em;
+}
+
+.cemoji-mcafee {
+    background-position: -8.6em -40.8em;
+}
+
+.cemoji-mazda {
+    background-position: -10.0em -40.8em;
+}
+
+.cemoji-maytag {
+    background-position: -11.4em -40.8em;
+}
+
+.cemoji-max {
+    background-position: -12.8em -40.8em;
+}
+
+.cemoji-matternet {
+    background-position: -14.2em -40.8em;
+}
+
+.cemoji-mattermost {
+    background-position: -15.6em -40.8em;
+}
+
+.cemoji-matrix {
+    background-position: -17.0em -40.8em;
+}
+
+.cemoji-matomo {
+    background-position: -18.4em -40.8em;
+}
+
+.cemoji-materialdesignicons {
+    background-position: -19.8em -40.8em;
+}
+
+.cemoji-materialdesign {
+    background-position: -21.2em -40.8em;
+}
+
+.cemoji-mastodon {
+    background-position: -22.6em -40.8em;
+}
+
+.cemoji-mastercomfig {
+    background-position: -24.0em -40.8em;
+}
+
+.cemoji-mastercard {
+    background-position: -25.4em -40.8em;
+}
+
+.cemoji-maserati {
+    background-position: -26.8em -40.8em;
+}
+
+.cemoji-marriott {
+    background-position: -28.2em -40.8em;
+}
+
+.cemoji-marketo {
+    background-position: -29.6em -40.8em;
+}
+
+.cemoji-markdown {
+    background-position: -31.0em -40.8em;
+}
+
+.cemoji-mariadbfoundation {
+    background-position: -32.4em -40.8em;
+}
+
+.cemoji-mariadb {
+    background-position: -33.8em -40.8em;
+}
+
+.cemoji-mapbox {
+    background-position: -35.2em -40.8em;
+}
+
+.cemoji-manjaro {
+    background-position: -36.6em -40.8em;
+}
+
+.cemoji-manageiq {
+    background-position: -38.0em -40.8em;
+}
+
+.cemoji-man {
+    background-position: -39.4em -40.8em;
+}
+
+.cemoji-makerbot {
+    background-position: -40.8em -40.8em;
+}
+
+.cemoji-majorleaguehacking {
+    background-position: -42.2em -0.2em;
+}
+
+.cemoji-mailchimp {
+    background-position: -42.2em -1.6em;
+}
+
+.cemoji-magisk {
+    background-position: -42.2em -3.0em;
+}
+
+.cemoji-magento {
+    background-position: -42.2em -4.4em;
+}
+
+.cemoji-macys {
+    background-position: -42.2em -5.8em;
+}
+
+.cemoji-macos {
+    background-position: -42.2em -7.2em;
+}
+
+.cemoji-maas {
+    background-position: -42.2em -8.6em;
+}
+
+.cemoji-lyft {
+    background-position: -42.2em -10.0em;
+}
+
+.cemoji-lydia {
+    background-position: -42.2em -11.4em;
+}
+
+.cemoji-lumen {
+    background-position: -42.2em -12.8em;
+}
+
+.cemoji-lufthansa {
+    background-position: -42.2em -14.2em;
+}
+
+.cemoji-lubuntu {
+    background-position: -42.2em -15.6em;
+}
+
+.cemoji-lua {
+    background-position: -42.2em -17.0em;
+}
+
+.cemoji-lotpolishairlines {
+    background-position: -42.2em -18.4em;
+}
+
+.cemoji-lospec {
+    background-position: -42.2em -19.8em;
+}
+
+.cemoji-loop {
+    background-position: -42.2em -21.2em;
+}
+
+.cemoji-loom {
+    background-position: -42.2em -22.6em;
+}
+
+.cemoji-looker {
+    background-position: -42.2em -24.0em;
+}
+
+.cemoji-logstash {
+    background-position: -42.2em -25.4em;
+}
+
+.cemoji-logmein {
+    background-position: -42.2em -26.8em;
+}
+
+.cemoji-logitech {
+    background-position: -42.2em -28.2em;
+}
+
+.cemoji-lmms {
+    background-position: -42.2em -29.6em;
+}
+
+.cemoji-llvm {
+    background-position: -42.2em -31.0em;
+}
+
+.cemoji-livejournal {
+    background-position: -42.2em -32.4em;
+}
+
+.cemoji-livechat {
+    background-position: -42.2em -33.8em;
+}
+
+.cemoji-litecoin {
+    background-position: -42.2em -35.2em;
+}
+
+.cemoji-lit {
+    background-position: -42.2em -36.6em;
+}
+
+.cemoji-lionair {
+    background-position: -42.2em -38.0em;
+}
+
+.cemoji-linuxmint {
+    background-position: -42.2em -39.4em;
+}
+
+.cemoji-linuxfoundation {
+    background-position: -42.2em -40.8em;
+}
+
+.cemoji-linuxcontainers {
+    background-position: -0.2em -42.2em;
+}
+
+.cemoji-linux {
+    background-position: -1.6em -42.2em;
+}
+
+.cemoji-linode {
+    background-position: -3.0em -42.2em;
+}
+
+.cemoji-linktree {
+    background-position: -4.4em -42.2em;
+}
+
+.cemoji-linkedin {
+    background-position: -5.8em -42.2em;
+}
+
+.cemoji-lineageos {
+    background-position: -7.2em -42.2em;
+}
+
+.cemoji-line {
+    background-position: -8.6em -42.2em;
+}
+
+.cemoji-lighthouse {
+    background-position: -10.0em -42.2em;
+}
+
+.cemoji-lifx {
+    background-position: -11.4em -42.2em;
+}
+
+.cemoji-lichess {
+    background-position: -12.8em -42.2em;
+}
+
+.cemoji-libuv {
+    background-position: -14.2em -42.2em;
+}
+
+.cemoji-libreoffice {
+    background-position: -15.6em -42.2em;
+}
+
+.cemoji-librarything {
+    background-position: -17.0em -42.2em;
+}
+
+.cemoji-liberapay {
+    background-position: -18.4em -42.2em;
+}
+
+.cemoji-lgtm {
+    background-position: -19.8em -42.2em;
+}
+
+.cemoji-lg {
+    background-position: -21.2em -42.2em;
+}
+
+.cemoji-letterboxd {
+    background-position: -22.6em -42.2em;
+}
+
+.cemoji-letsencrypt {
+    background-position: -24.0em -42.2em;
+}
+
+.cemoji-less {
+    background-position: -25.4em -42.2em;
+}
+
+.cemoji-lenovo {
+    background-position: -26.8em -42.2em;
+}
+
+.cemoji-leetcode {
+    background-position: -28.2em -42.2em;
+}
+
+.cemoji-leanpub {
+    background-position: -29.6em -42.2em;
+}
+
+.cemoji-leaflet {
+    background-position: -31.0em -42.2em;
+}
+
+.cemoji-lbry {
+    background-position: -32.4em -42.2em;
+}
+
+.cemoji-launchpad {
+    background-position: -33.8em -42.2em;
+}
+
+.cemoji-latex {
+    background-position: -35.2em -42.2em;
+}
+
+.cemoji-lastpass {
+    background-position: -36.6em -42.2em;
+}
+
+.cemoji-laravelnova {
+    background-position: -38.0em -42.2em;
+}
+
+.cemoji-laravelhorizon {
+    background-position: -39.4em -42.2em;
+}
+
+.cemoji-laravel {
+    background-position: -40.8em -42.2em;
+}
+
+.cemoji-laragon {
+    background-position: -42.2em -42.2em;
+}
+
+.cemoji-landrover {
+    background-position: -43.6em -0.2em;
+}
+
+.cemoji-lamborghini {
+    background-position: -43.6em -1.6em;
+}
+
+.cemoji-lada {
+    background-position: -43.6em -3.0em;
+}
+
+.cemoji-labview {
+    background-position: -43.6em -4.4em;
+}
+
+.cemoji-kyocera {
+    background-position: -43.6em -5.8em;
+}
+
+.cemoji-kubuntu {
+    background-position: -43.6em -7.2em;
+}
+
+.cemoji-kubernetes {
+    background-position: -43.6em -8.6em;
+}
+
+.cemoji-ktm {
+    background-position: -43.6em -10.0em;
+}
+
+.cemoji-krita {
+    background-position: -43.6em -11.4em;
+}
+
+.cemoji-kotlin {
+    background-position: -43.6em -12.8em;
+}
+
+.cemoji-kongregate {
+    background-position: -43.6em -14.2em;
+}
+
+.cemoji-komoot {
+    background-position: -43.6em -15.6em;
+}
+
+.cemoji-kofax {
+    background-position: -43.6em -17.0em;
+}
+
+.cemoji-koding {
+    background-position: -43.6em -18.4em;
+}
+
+.cemoji-kodi {
+    background-position: -43.6em -19.8em;
+}
+
+.cemoji-known {
+    background-position: -43.6em -21.2em;
+}
+
+.cemoji-knowledgebase {
+    background-position: -43.6em -22.6em;
+}
+
+.cemoji-klook {
+    background-position: -43.6em -24.0em;
+}
+
+.cemoji-klm {
+    background-position: -43.6em -25.4em;
+}
+
+.cemoji-klarna {
+    background-position: -43.6em -26.8em;
+}
+
+.cemoji-kitsu {
+    background-position: -43.6em -28.2em;
+}
+
+.cemoji-kirby {
+    background-position: -43.6em -29.6em;
+}
+
+.cemoji-kik {
+    background-position: -43.6em -31.0em;
+}
+
+.cemoji-kickstarter {
+    background-position: -43.6em -32.4em;
+}
+
+.cemoji-kibana {
+    background-position: -43.6em -33.8em;
+}
+
+.cemoji-kia {
+    background-position: -43.6em -35.2em;
+}
+
+.cemoji-khronosgroup {
+    background-position: -43.6em -36.6em;
+}
+
+.cemoji-khanacademy {
+    background-position: -43.6em -38.0em;
+}
+
+.cemoji-keycdn {
+    background-position: -43.6em -39.4em;
+}
+
+.cemoji-keybase {
+    background-position: -43.6em -40.8em;
+}
+
+.cemoji-keras {
+    background-position: -43.6em -42.2em;
+}
+
+.cemoji-kentico {
+    background-position: -0.2em -43.6em;
+}
+
+.cemoji-keepassxc {
+    background-position: -1.6em -43.6em;
+}
+
+.cemoji-kdenlive {
+    background-position: -3.0em -43.6em;
+}
+
+.cemoji-kde {
+    background-position: -4.4em -43.6em;
+}
+
+.cemoji-kaufland {
+    background-position: -5.8em -43.6em;
+}
+
+.cemoji-katana {
+    background-position: -7.2em -43.6em;
+}
+
+.cemoji-katacoda {
+    background-position: -8.6em -43.6em;
+}
+
+.cemoji-kaspersky {
+    background-position: -10.0em -43.6em;
+}
+
+.cemoji-kashflow {
+    background-position: -11.4em -43.6em;
+}
+
+.cemoji-kasasmart {
+    background-position: -12.8em -43.6em;
+}
+
+.cemoji-karlsruherverkehrsverbund {
+    background-position: -14.2em -43.6em;
+}
+
+.cemoji-kalilinux {
+    background-position: -15.6em -43.6em;
+}
+
+.cemoji-kakaotalk {
+    background-position: -17.0em -43.6em;
+}
+
+.cemoji-kakao {
+    background-position: -18.4em -43.6em;
+}
+
+.cemoji-kaios {
+    background-position: -19.8em -43.6em;
+}
+
+.cemoji-kahoot {
+    background-position: -21.2em -43.6em;
+}
+
+.cemoji-kaggle {
+    background-position: -22.6em -43.6em;
+}
+
+.cemoji-justgiving {
+    background-position: -24.0em -43.6em;
+}
+
+.cemoji-justeat {
+    background-position: -25.4em -43.6em;
+}
+
+.cemoji-jupyter {
+    background-position: -26.8em -43.6em;
+}
+
+.cemoji-junit5 {
+    background-position: -28.2em -43.6em;
+}
+
+.cemoji-junipernetworks {
+    background-position: -29.6em -43.6em;
+}
+
+.cemoji-julia {
+    background-position: -31.0em -43.6em;
+}
+
+.cemoji-jss {
+    background-position: -32.4em -43.6em;
+}
+
+.cemoji-jsonwebtokens {
+    background-position: -33.8em -43.6em;
+}
+
+.cemoji-json {
+    background-position: -35.2em -43.6em;
+}
+
+.cemoji-jsfiddle {
+    background-position: -36.6em -43.6em;
+}
+
+.cemoji-jsdelivr {
+    background-position: -38.0em -43.6em;
+}
+
+.cemoji-jrgroup {
+    background-position: -39.4em -43.6em;
+}
+
+.cemoji-jquery {
+    background-position: -40.8em -43.6em;
+}
+
+.cemoji-jpeg {
+    background-position: -42.2em -43.6em;
+}
+
+.cemoji-joomla {
+    background-position: -43.6em -43.6em;
+}
+
+.cemoji-johndeere {
+    background-position: -45.0em -0.2em;
+}
+
+.cemoji-jitsi {
+    background-position: -45.0em -1.6em;
+}
+
+.cemoji-jirasoftware {
+    background-position: -45.0em -3.0em;
+}
+
+.cemoji-jira {
+    background-position: -45.0em -4.4em;
+}
+
+.cemoji-jinja {
+    background-position: -45.0em -5.8em;
+}
+
+.cemoji-jfrogbintray {
+    background-position: -45.0em -7.2em;
+}
+
+.cemoji-jfrog {
+    background-position: -45.0em -8.6em;
+}
+
+.cemoji-jetbrains {
+    background-position: -45.0em -10.0em;
+}
+
+.cemoji-jet {
+    background-position: -45.0em -11.4em;
+}
+
+.cemoji-jest {
+    background-position: -45.0em -12.8em;
+}
+
+.cemoji-jenkinsx {
+    background-position: -45.0em -14.2em;
+}
+
+.cemoji-jenkins {
+    background-position: -45.0em -15.6em;
+}
+
+.cemoji-jellyfin {
+    background-position: -45.0em -17.0em;
+}
+
+.cemoji-jekyll {
+    background-position: -45.0em -18.4em;
+}
+
+.cemoji-jeep {
+    background-position: -45.0em -19.8em;
+}
+
+.cemoji-jcb {
+    background-position: -45.0em -21.2em;
+}
+
+.cemoji-jbl {
+    background-position: -45.0em -22.6em;
+}
+
+.cemoji-javascript {
+    background-position: -45.0em -24.0em;
+}
+
+.cemoji-java {
+    background-position: -45.0em -25.4em;
+}
+
+.cemoji-jasmine {
+    background-position: -45.0em -26.8em;
+}
+
+.cemoji-jamstack {
+    background-position: -45.0em -28.2em;
+}
+
+.cemoji-jameson {
+    background-position: -45.0em -29.6em;
+}
+
+.cemoji-jamboard {
+    background-position: -45.0em -31.0em;
+}
+
+.cemoji-jaguar {
+    background-position: -45.0em -32.4em;
+}
+
+.cemoji-jabber {
+    background-position: -45.0em -33.8em;
+}
+
+.cemoji-iveco {
+    background-position: -45.0em -35.2em;
+}
+
+.cemoji-itunes {
+    background-position: -45.0em -36.6em;
+}
+
+.cemoji-issuu {
+    background-position: -45.0em -38.0em;
+}
+
+.cemoji-ipfs {
+    background-position: -45.0em -39.4em;
+}
+
+.cemoji-iota {
+    background-position: -45.0em -40.8em;
+}
+
+.cemoji-ios {
+    background-position: -45.0em -42.2em;
+}
+
+.cemoji-ionic {
+    background-position: -45.0em -43.6em;
+}
+
+.cemoji-iobroker {
+    background-position: -0.2em -45.0em;
+}
+
+.cemoji-invoiceninja {
+    background-position: -1.6em -45.0em;
+}
+
+.cemoji-invision {
+    background-position: -3.0em -45.0em;
+}
+
+.cemoji-intigriti {
+    background-position: -4.4em -45.0em;
+}
+
+.cemoji-internetexplorer {
+    background-position: -5.8em -45.0em;
+}
+
+.cemoji-internetarchive {
+    background-position: -7.2em -45.0em;
+}
+
+.cemoji-intercom {
+    background-position: -8.6em -45.0em;
+}
+
+.cemoji-intellijidea {
+    background-position: -10.0em -45.0em;
+}
+
+.cemoji-intel {
+    background-position: -11.4em -45.0em;
+}
+
+.cemoji-integromat {
+    background-position: -12.8em -45.0em;
+}
+
+.cemoji-instructables {
+    background-position: -14.2em -45.0em;
+}
+
+.cemoji-instapaper {
+    background-position: -15.6em -45.0em;
+}
+
+.cemoji-instagram {
+    background-position: -17.0em -45.0em;
+}
+
+.cemoji-instacart {
+    background-position: -18.4em -45.0em;
+}
+
+.cemoji-insomnia {
+    background-position: -19.8em -45.0em;
+}
+
+.cemoji-inkscape {
+    background-position: -21.2em -45.0em;
+}
+
+.cemoji-ingress {
+    background-position: -22.6em -45.0em;
+}
+
+.cemoji-infosys {
+    background-position: -24.0em -45.0em;
+}
+
+.cemoji-informatica {
+    background-position: -25.4em -45.0em;
+}
+
+.cemoji-influxdb {
+    background-position: -26.8em -45.0em;
+}
+
+.cemoji-infiniti {
+    background-position: -28.2em -45.0em;
+}
+
+.cemoji-indeed {
+    background-position: -29.6em -45.0em;
+}
+
+.cemoji-imou {
+    background-position: -31.0em -45.0em;
+}
+
+.cemoji-immer {
+    background-position: -32.4em -45.0em;
+}
+
+.cemoji-imgur {
+    background-position: -33.8em -45.0em;
+}
+
+.cemoji-imdb {
+    background-position: -35.2em -45.0em;
+}
+
+.cemoji-imagej {
+    background-position: -36.6em -45.0em;
+}
+
+.cemoji-ikea {
+    background-position: -38.0em -45.0em;
+}
+
+.cemoji-iheartradio {
+    background-position: -39.4em -45.0em;
+}
+
+.cemoji-ifttt {
+    background-position: -40.8em -45.0em;
+}
+
+.cemoji-ifood {
+    background-position: -42.2em -45.0em;
+}
+
+.cemoji-ifixit {
+    background-position: -43.6em -45.0em;
+}
+
+.cemoji-ieee {
+    background-position: -45.0em -45.0em;
+}
+
+.cemoji-icq {
+    background-position: -46.4em -0.2em;
+}
+
+.cemoji-iconjar {
+    background-position: -46.4em -1.6em;
+}
+
+.cemoji-iconify {
+    background-position: -46.4em -3.0em;
+}
+
+.cemoji-iconfinder {
+    background-position: -46.4em -4.4em;
+}
+
+.cemoji-icon {
+    background-position: -46.4em -5.8em;
+}
+
+.cemoji-icomoon {
+    background-position: -46.4em -7.2em;
+}
+
+.cemoji-icloud {
+    background-position: -46.4em -8.6em;
+}
+
+.cemoji-icinga {
+    background-position: -46.4em -10.0em;
+}
+
+.cemoji-ibmwatson {
+    background-position: -46.4em -11.4em;
+}
+
+.cemoji-ibm {
+    background-position: -46.4em -12.8em;
+}
+
+.cemoji-ibeacon {
+    background-position: -46.4em -14.2em;
+}
+
+.cemoji-iata {
+    background-position: -46.4em -15.6em;
+}
+
+.cemoji-hyundai {
+    background-position: -46.4em -17.0em;
+}
+
+.cemoji-hypothesis {
+    background-position: -46.4em -18.4em;
+}
+
+.cemoji-hyperledger {
+    background-position: -46.4em -19.8em;
+}
+
+.cemoji-hyper {
+    background-position: -46.4em -21.2em;
+}
+
+.cemoji-husqvarna {
+    background-position: -46.4em -22.6em;
+}
+
+.cemoji-hurriyetemlak {
+    background-position: -46.4em -24.0em;
+}
+
+.cemoji-hungryjacks {
+    background-position: -46.4em -25.4em;
+}
+
+.cemoji-humblebundle {
+    background-position: -46.4em -26.8em;
+}
+
+.cemoji-hulu {
+    background-position: -46.4em -28.2em;
+}
+
+.cemoji-hugo {
+    background-position: -46.4em -29.6em;
+}
+
+.cemoji-hubspot {
+    background-position: -46.4em -31.0em;
+}
+
+.cemoji-huawei {
+    background-position: -46.4em -32.4em;
+}
+
+.cemoji-htmlacademy {
+    background-position: -46.4em -33.8em;
+}
+
+.cemoji-html5 {
+    background-position: -46.4em -35.2em;
+}
+
+.cemoji-hp {
+    background-position: -46.4em -36.6em;
+}
+
+.cemoji-houzz {
+    background-position: -46.4em -38.0em;
+}
+
+.cemoji-houdini {
+    background-position: -46.4em -39.4em;
+}
+
+.cemoji-hotjar {
+    background-position: -46.4em -40.8em;
+}
+
+.cemoji-hoppscotch {
+    background-position: -46.4em -42.2em;
+}
+
+.cemoji-hootsuite {
+    background-position: -46.4em -43.6em;
+}
+
+.cemoji-honda {
+    background-position: -46.4em -45.0em;
+}
+
+.cemoji-homify {
+    background-position: -0.2em -46.4em;
+}
+
+.cemoji-homebridge {
+    background-position: -1.6em -46.4em;
+}
+
+.cemoji-homebrew {
+    background-position: -3.0em -46.4em;
+}
+
+.cemoji-homeassistantcommunitystore {
+    background-position: -4.4em -46.4em;
+}
+
+.cemoji-homeassistant {
+    background-position: -5.8em -46.4em;
+}
+
+.cemoji-homeadvisor {
+    background-position: -7.2em -46.4em;
+}
+
+.cemoji-hive {
+    background-position: -8.6em -46.4em;
+}
+
+.cemoji-hitachi {
+    background-position: -10.0em -46.4em;
+}
+
+.cemoji-hilton {
+    background-position: -11.4em -46.4em;
+}
+
+.cemoji-hibernate {
+    background-position: -12.8em -46.4em;
+}
+
+.cemoji-hey {
+    background-position: -14.2em -46.4em;
+}
+
+.cemoji-hexo {
+    background-position: -15.6em -46.4em;
+}
+
+.cemoji-heroku {
+    background-position: -17.0em -46.4em;
+}
+
+.cemoji-here {
+    background-position: -18.4em -46.4em;
+}
+
+.cemoji-helpdesk {
+    background-position: -19.8em -46.4em;
+}
+
+.cemoji-helm {
+    background-position: -21.2em -46.4em;
+}
+
+.cemoji-hellyhansen {
+    background-position: -22.6em -46.4em;
+}
+
+.cemoji-hellofresh {
+    background-position: -24.0em -46.4em;
+}
+
+.cemoji-headspace {
+    background-position: -25.4em -46.4em;
+}
+
+.cemoji-hcl {
+    background-position: -26.8em -46.4em;
+}
+
+.cemoji-hbo {
+    background-position: -28.2em -46.4em;
+}
+
+.cemoji-haxe {
+    background-position: -29.6em -46.4em;
+}
+
+.cemoji-haveibeenpwned {
+    background-position: -31.0em -46.4em;
+}
+
+.cemoji-hatenabookmark {
+    background-position: -32.4em -46.4em;
+}
+
+.cemoji-hasura {
+    background-position: -33.8em -46.4em;
+}
+
+.cemoji-haskell {
+    background-position: -35.2em -46.4em;
+}
+
+.cemoji-hashnode {
+    background-position: -36.6em -46.4em;
+}
+
+.cemoji-harbor {
+    background-position: -38.0em -46.4em;
+}
+
+.cemoji-happycow {
+    background-position: -39.4em -46.4em;
+}
+
+.cemoji-handshake {
+    background-position: -40.8em -46.4em;
+}
+
+.cemoji-hackthebox {
+    background-position: -42.2em -46.4em;
+}
+
+.cemoji-hackster {
+    background-position: -43.6em -46.4em;
+}
+
+.cemoji-hackerrank {
+    background-position: -45.0em -46.4em;
+}
+
+.cemoji-hackerone {
+    background-position: -46.4em -46.4em;
+}
+
+.cemoji-hackerearth {
+    background-position: -47.8em -0.2em;
+}
+
+.cemoji-hackclub {
+    background-position: -47.8em -1.6em;
+}
+
+.cemoji-hackaday {
+    background-position: -47.8em -3.0em;
+}
+
+.cemoji-habr {
+    background-position: -47.8em -4.4em;
+}
+
+.cemoji-gutenberg {
+    background-position: -47.8em -5.8em;
+}
+
+.cemoji-gumtree {
+    background-position: -47.8em -7.2em;
+}
+
+.cemoji-gumroad {
+    background-position: -47.8em -8.6em;
+}
+
+.cemoji-gulp {
+    background-position: -47.8em -10.0em;
+}
+
+.cemoji-guangzhoumetro {
+    background-position: -47.8em -11.4em;
+}
+
+.cemoji-grunt {
+    background-position: -47.8em -12.8em;
+}
+
+.cemoji-grubhub {
+    background-position: -47.8em -14.2em;
+}
+
+.cemoji-groupon {
+    background-position: -47.8em -15.6em;
+}
+
+.cemoji-gridsome {
+    background-position: -47.8em -17.0em;
+}
+
+.cemoji-greensock {
+    background-position: -47.8em -18.4em;
+}
+
+.cemoji-graylog {
+    background-position: -47.8em -19.8em;
+}
+
+.cemoji-gravatar {
+    background-position: -47.8em -21.2em;
+}
+
+.cemoji-grav {
+    background-position: -47.8em -22.6em;
+}
+
+.cemoji-graphql {
+    background-position: -47.8em -24.0em;
+}
+
+.cemoji-grammarly {
+    background-position: -47.8em -25.4em;
+}
+
+.cemoji-grafana {
+    background-position: -47.8em -26.8em;
+}
+
+.cemoji-gradle {
+    background-position: -47.8em -28.2em;
+}
+
+.cemoji-gotomeeting {
+    background-position: -47.8em -29.6em;
+}
+
+.cemoji-googletranslate {
+    background-position: -47.8em -31.0em;
+}
+
+.cemoji-googletagmanager {
+    background-position: -47.8em -32.4em;
+}
+
+.cemoji-googlestreetview {
+    background-position: -47.8em -33.8em;
+}
+
+.cemoji-googlesheets {
+    background-position: -47.8em -35.2em;
+}
+
+.cemoji-googlesearchconsole {
+    background-position: -47.8em -36.6em;
+}
+
+.cemoji-googlescholar {
+    background-position: -47.8em -38.0em;
+}
+
+.cemoji-googlepodcasts {
+    background-position: -47.8em -39.4em;
+}
+
+.cemoji-googleplay {
+    background-position: -47.8em -40.8em;
+}
+
+.cemoji-googlephotos {
+    background-position: -47.8em -42.2em;
+}
+
+.cemoji-googlepay {
+    background-position: -47.8em -43.6em;
+}
+
+.cemoji-googleoptimize {
+    background-position: -47.8em -45.0em;
+}
+
+.cemoji-googlenews {
+    background-position: -47.8em -46.4em;
+}
+
+.cemoji-googlenearby {
+    background-position: -0.2em -47.8em;
+}
+
+.cemoji-googlemybusiness {
+    background-position: -1.6em -47.8em;
+}
+
+.cemoji-googlemessages {
+    background-position: -3.0em -47.8em;
+}
+
+.cemoji-googlemeet {
+    background-position: -4.4em -47.8em;
+}
+
+.cemoji-googlemaps {
+    background-position: -5.8em -47.8em;
+}
+
+.cemoji-googlelens {
+    background-position: -7.2em -47.8em;
+}
+
+.cemoji-googlekeep {
+    background-position: -8.6em -47.8em;
+}
+
+.cemoji-googlehangouts {
+    background-position: -10.0em -47.8em;
+}
+
+.cemoji-googlefonts {
+    background-position: -11.4em -47.8em;
+}
+
+.cemoji-googlefit {
+    background-position: -12.8em -47.8em;
+}
+
+.cemoji-googleearth {
+    background-position: -14.2em -47.8em;
+}
+
+.cemoji-googledrive {
+    background-position: -15.6em -47.8em;
+}
+
+.cemoji-googledomains {
+    background-position: -17.0em -47.8em;
+}
+
+.cemoji-googlecolab {
+    background-position: -18.4em -47.8em;
+}
+
+.cemoji-googlecloud {
+    background-position: -19.8em -47.8em;
+}
+
+.cemoji-googleclassroom {
+    background-position: -21.2em -47.8em;
+}
+
+.cemoji-googlechrome {
+    background-position: -22.6em -47.8em;
+}
+
+.cemoji-googlechat {
+    background-position: -24.0em -47.8em;
+}
+
+.cemoji-googlecast {
+    background-position: -25.4em -47.8em;
+}
+
+.cemoji-googlecardboard {
+    background-position: -26.8em -47.8em;
+}
+
+.cemoji-googlecalendar {
+    background-position: -28.2em -47.8em;
+}
+
+.cemoji-googleassistant {
+    background-position: -29.6em -47.8em;
+}
+
+.cemoji-googleanalytics {
+    background-position: -31.0em -47.8em;
+}
+
+.cemoji-googleadsense {
+    background-position: -32.4em -47.8em;
+}
+
+.cemoji-googleads {
+    background-position: -33.8em -47.8em;
+}
+
+.cemoji-google {
+    background-position: -35.2em -47.8em;
+}
+
+.cemoji-goodreads {
+    background-position: -36.6em -47.8em;
+}
+
+.cemoji-goldenline {
+    background-position: -38.0em -47.8em;
+}
+
+.cemoji-gofundme {
+    background-position: -39.4em -47.8em;
+}
+
+.cemoji-godotengine {
+    background-position: -40.8em -47.8em;
+}
+
+.cemoji-godaddy {
+    background-position: -42.2em -47.8em;
+}
+
+.cemoji-go {
+    background-position: -43.6em -47.8em;
+}
+
+.cemoji-gnusocial {
+    background-position: -45.0em -47.8em;
+}
+
+.cemoji-gnuprivacyguard {
+    background-position: -46.4em -47.8em;
+}
+
+.cemoji-gnuicecat {
+    background-position: -47.8em -47.8em;
+}
+
+.cemoji-gnuemacs {
+    background-position: -49.2em -0.2em;
+}
+
+.cemoji-gnubash {
+    background-position: -49.2em -1.6em;
+}
+
+.cemoji-gnu {
+    background-position: -49.2em -3.0em;
+}
+
+.cemoji-gnome {
+    background-position: -49.2em -4.4em;
+}
+
+.cemoji-gmail {
+    background-position: -49.2em -5.8em;
+}
+
+.cemoji-glitch {
+    background-position: -49.2em -7.2em;
+}
+
+.cemoji-glassdoor {
+    background-position: -49.2em -8.6em;
+}
+
+.cemoji-gitter {
+    background-position: -49.2em -10.0em;
+}
+
+.cemoji-gitpod {
+    background-position: -49.2em -11.4em;
+}
+
+.cemoji-gitlfs {
+    background-position: -49.2em -12.8em;
+}
+
+.cemoji-gitlab {
+    background-position: -49.2em -14.2em;
+}
+
+.cemoji-gitkraken {
+    background-position: -49.2em -15.6em;
+}
+
+.cemoji-githubsponsors {
+    background-position: -49.2em -17.0em;
+}
+
+.cemoji-githubactions {
+    background-position: -49.2em -18.4em;
+}
+
+.cemoji-github {
+    background-position: -49.2em -19.8em;
+}
+
+.cemoji-gitextensions {
+    background-position: -49.2em -21.2em;
+}
+
+.cemoji-gitee {
+    background-position: -49.2em -22.6em;
+}
+
+.cemoji-gitea {
+    background-position: -49.2em -24.0em;
+}
+
+.cemoji-gitbook {
+    background-position: -49.2em -25.4em;
+}
+
+.cemoji-git {
+    background-position: -49.2em -26.8em;
+}
+
+.cemoji-giphy {
+    background-position: -49.2em -28.2em;
+}
+
+.cemoji-gimp {
+    background-position: -49.2em -29.6em;
+}
+
+.cemoji-ghostery {
+    background-position: -49.2em -31.0em;
+}
+
+.cemoji-ghost {
+    background-position: -49.2em -32.4em;
+}
+
+.cemoji-gerrit {
+    background-position: -49.2em -33.8em;
+}
+
+.cemoji-geocaching {
+    background-position: -49.2em -35.2em;
+}
+
+.cemoji-gentoo {
+    background-position: -49.2em -36.6em;
+}
+
+.cemoji-genius {
+    background-position: -49.2em -38.0em;
+}
+
+.cemoji-generalmotors {
+    background-position: -49.2em -39.4em;
+}
+
+.cemoji-generalelectric {
+    background-position: -49.2em -40.8em;
+}
+
+.cemoji-geeksforgeeks {
+    background-position: -49.2em -42.2em;
+}
+
+.cemoji-gatsby {
+    background-position: -49.2em -43.6em;
+}
+
+.cemoji-gatling {
+    background-position: -49.2em -45.0em;
+}
+
+.cemoji-garmin {
+    background-position: -49.2em -46.4em;
+}
+
+.cemoji-gamejolt {
+    background-position: -49.2em -47.8em;
+}
+
+.cemoji-g2a {
+    background-position: -0.2em -49.2em;
+}
+
+.cemoji-futurelearn {
+    background-position: -1.6em -49.2em;
+}
+
+.cemoji-furrynetwork {
+    background-position: -3.0em -49.2em;
+}
+
+.cemoji-furaffinity {
+    background-position: -4.4em -49.2em;
+}
+
+.cemoji-fujitsu {
+    background-position: -5.8em -49.2em;
+}
+
+.cemoji-fujifilm {
+    background-position: -7.2em -49.2em;
+}
+
+.cemoji-freenas {
+    background-position: -8.6em -49.2em;
+}
+
+.cemoji-freelancer {
+    background-position: -10.0em -49.2em;
+}
+
+.cemoji-freecodecamp {
+    background-position: -11.4em -49.2em;
+}
+
+.cemoji-freebsd {
+    background-position: -12.8em -49.2em;
+}
+
+.cemoji-framer {
+    background-position: -14.2em -49.2em;
+}
+
+.cemoji-fozzy {
+    background-position: -15.6em -49.2em;
+}
+
+.cemoji-foxtel {
+    background-position: -17.0em -49.2em;
+}
+
+.cemoji-foursquare {
+    background-position: -18.4em -49.2em;
+}
+
+.cemoji-fossilscm {
+    background-position: -19.8em -49.2em;
+}
+
+.cemoji-fossa {
+    background-position: -21.2em -49.2em;
+}
+
+.cemoji-fortran {
+    background-position: -22.6em -49.2em;
+}
+
+.cemoji-fortinet {
+    background-position: -24.0em -49.2em;
+}
+
+.cemoji-formstack {
+    background-position: -25.4em -49.2em;
+}
+
+.cemoji-forestry {
+    background-position: -26.8em -49.2em;
+}
+
+.cemoji-ford {
+    background-position: -28.2em -49.2em;
+}
+
+.cemoji-foodpanda {
+    background-position: -29.6em -49.2em;
+}
+
+.cemoji-fontbase {
+    background-position: -31.0em -49.2em;
+}
+
+.cemoji-fontawesome {
+    background-position: -32.4em -49.2em;
+}
+
+.cemoji-folium {
+    background-position: -33.8em -49.2em;
+}
+
+.cemoji-fnac {
+    background-position: -35.2em -49.2em;
+}
+
+.cemoji-fmod {
+    background-position: -36.6em -49.2em;
+}
+
+.cemoji-flutter {
+    background-position: -38.0em -49.2em;
+}
+
+.cemoji-fluentd {
+    background-position: -39.4em -49.2em;
+}
+
+.cemoji-flood {
+    background-position: -40.8em -49.2em;
+}
+
+.cemoji-floatplane {
+    background-position: -42.2em -49.2em;
+}
+
+.cemoji-flipkart {
+    background-position: -43.6em -49.2em;
+}
+
+.cemoji-flipboard {
+    background-position: -45.0em -49.2em;
+}
+
+.cemoji-flickr {
+    background-position: -46.4em -49.2em;
+}
+
+.cemoji-flattr {
+    background-position: -47.8em -49.2em;
+}
+
+.cemoji-flathub {
+    background-position: -49.2em -49.2em;
+}
+
+.cemoji-flask {
+    background-position: -50.6em -0.2em;
+}
+
+.cemoji-fiverr {
+    background-position: -50.6em -1.6em;
+}
+
+.cemoji-fite {
+    background-position: -50.6em -3.0em;
+}
+
+.cemoji-fitbit {
+    background-position: -50.6em -4.4em;
+}
+
+.cemoji-first {
+    background-position: -50.6em -5.8em;
+}
+
+.cemoji-firefoxbrowser {
+    background-position: -50.6em -7.2em;
+}
+
+.cemoji-firefox {
+    background-position: -50.6em -8.6em;
+}
+
+.cemoji-firebase {
+    background-position: -50.6em -10.0em;
+}
+
+.cemoji-fing {
+    background-position: -50.6em -11.4em;
+}
+
+.cemoji-filezilla {
+    background-position: -50.6em -12.8em;
+}
+
+.cemoji-files {
+    background-position: -50.6em -14.2em;
+}
+
+.cemoji-fila {
+    background-position: -50.6em -15.6em;
+}
+
+.cemoji-figshare {
+    background-position: -50.6em -17.0em;
+}
+
+.cemoji-figma {
+    background-position: -50.6em -18.4em;
+}
+
+.cemoji-fifa {
+    background-position: -50.6em -19.8em;
+}
+
+.cemoji-fidoalliance {
+    background-position: -50.6em -21.2em;
+}
+
+.cemoji-fiat {
+    background-position: -50.6em -22.6em;
+}
+
+.cemoji-ffmpeg {
+    background-position: -50.6em -24.0em;
+}
+
+.cemoji-ferrari {
+    background-position: -50.6em -25.4em;
+}
+
+.cemoji-feedly {
+    background-position: -50.6em -26.8em;
+}
+
+.cemoji-fedora {
+    background-position: -50.6em -28.2em;
+}
+
+.cemoji-fedex {
+    background-position: -50.6em -29.6em;
+}
+
+.cemoji-feathub {
+    background-position: -50.6em -31.0em;
+}
+
+.cemoji-favro {
+    background-position: -50.6em -32.4em;
+}
+
+.cemoji-fathom {
+    background-position: -50.6em -33.8em;
+}
+
+.cemoji-fastly {
+    background-position: -50.6em -35.2em;
+}
+
+.cemoji-fastlane {
+    background-position: -50.6em -36.6em;
+}
+
+.cemoji-fastify {
+    background-position: -50.6em -38.0em;
+}
+
+.cemoji-fastapi {
+    background-position: -50.6em -39.4em;
+}
+
+.cemoji-farfetch {
+    background-position: -50.6em -40.8em;
+}
+
+.cemoji-fandom {
+    background-position: -50.6em -42.2em;
+}
+
+.cemoji-fandango {
+    background-position: -50.6em -43.6em;
+}
+
+.cemoji-fampay {
+    background-position: -50.6em -45.0em;
+}
+
+.cemoji-falcon {
+    background-position: -50.6em -46.4em;
+}
+
+.cemoji-facepunch {
+    background-position: -50.6em -47.8em;
+}
+
+.cemoji-faceit {
+    background-position: -50.6em -49.2em;
+}
+
+.cemoji-facebooklive {
+    background-position: -0.2em -50.6em;
+}
+
+.cemoji-facebookgaming {
+    background-position: -1.6em -50.6em;
+}
+
+.cemoji-facebook {
+    background-position: -3.0em -50.6em;
+}
+
+.cemoji-eyeem {
+    background-position: -4.4em -50.6em;
+}
+
+.cemoji-express {
+    background-position: -5.8em -50.6em;
+}
+
+.cemoji-expo {
+    background-position: -7.2em -50.6em;
+}
+
+.cemoji-expertsexchange {
+    background-position: -8.6em -50.6em;
+}
+
+.cemoji-expensify {
+    background-position: -10.0em -50.6em;
+}
+
+.cemoji-exercism {
+    background-position: -11.4em -50.6em;
+}
+
+.cemoji-evernote {
+    background-position: -12.8em -50.6em;
+}
+
+.cemoji-eventstore {
+    background-position: -14.2em -50.6em;
+}
+
+.cemoji-eventbrite {
+    background-position: -15.6em -50.6em;
+}
+
+.cemoji-etsy {
+    background-position: -17.0em -50.6em;
+}
+
+.cemoji-etihadairways {
+    background-position: -18.4em -50.6em;
+}
+
+.cemoji-ethiopianairlines {
+    background-position: -19.8em -50.6em;
+}
+
+.cemoji-ethereum {
+    background-position: -21.2em -50.6em;
+}
+
+.cemoji-espressif {
+    background-position: -22.6em -50.6em;
+}
+
+.cemoji-esphome {
+    background-position: -24.0em -50.6em;
+}
+
+.cemoji-eslint {
+    background-position: -25.4em -50.6em;
+}
+
+.cemoji-eslgaming {
+    background-position: -26.8em -50.6em;
+}
+
+.cemoji-esea {
+    background-position: -28.2em -50.6em;
+}
+
+.cemoji-erlang {
+    background-position: -29.6em -50.6em;
+}
+
+.cemoji-epson {
+    background-position: -31.0em -50.6em;
+}
+
+.cemoji-epicgames {
+    background-position: -32.4em -50.6em;
+}
+
+.cemoji-epel {
+    background-position: -33.8em -50.6em;
+}
+
+.cemoji-envato {
+    background-position: -35.2em -50.6em;
+}
+
+.cemoji-enpass {
+    background-position: -36.6em -50.6em;
+}
+
+.cemoji-empirekred {
+    background-position: -38.0em -50.6em;
+}
+
+.cemoji-emlakjet {
+    background-position: -39.4em -50.6em;
+}
+
+.cemoji-emirates {
+    background-position: -40.8em -50.6em;
+}
+
+.cemoji-emby {
+    background-position: -42.2em -50.6em;
+}
+
+.cemoji-embarcadero {
+    background-position: -43.6em -50.6em;
+}
+
+.cemoji-elsevier {
+    background-position: -45.0em -50.6em;
+}
+
+.cemoji-elm {
+    background-position: -46.4em -50.6em;
+}
+
+.cemoji-ello {
+    background-position: -47.8em -50.6em;
+}
+
+.cemoji-eljueves {
+    background-position: -49.2em -50.6em;
+}
+
+.cemoji-elixir {
+    background-position: -50.6em -50.6em;
+}
+
+.cemoji-eleventy {
+    background-position: -52.0em -0.2em;
+}
+
+.cemoji-elementary {
+    background-position: -52.0em -1.6em;
+}
+
+.cemoji-element {
+    background-position: -52.0em -3.0em;
+}
+
+.cemoji-electron {
+    background-position: -52.0em -4.4em;
+}
+
+.cemoji-elasticstack {
+    background-position: -52.0em -5.8em;
+}
+
+.cemoji-elasticsearch {
+    background-position: -52.0em -7.2em;
+}
+
+.cemoji-elasticcloud {
+    background-position: -52.0em -8.6em;
+}
+
+.cemoji-elastic {
+    background-position: -52.0em -10.0em;
+}
+
+.cemoji-eightsleep {
+    background-position: -52.0em -11.4em;
+}
+
+.cemoji-egnyte {
+    background-position: -52.0em -12.8em;
+}
+
+.cemoji-egghead {
+    background-position: -52.0em -14.2em;
+}
+
+.cemoji-edx {
+    background-position: -52.0em -15.6em;
+}
+
+.cemoji-editorconfig {
+    background-position: -52.0em -17.0em;
+}
+
+.cemoji-eclipsemosquitto {
+    background-position: -52.0em -18.4em;
+}
+
+.cemoji-eclipsejetty {
+    background-position: -52.0em -19.8em;
+}
+
+.cemoji-eclipseide {
+    background-position: -52.0em -21.2em;
+}
+
+.cemoji-eclipseche {
+    background-position: -52.0em -22.6em;
+}
+
+.cemoji-ebay {
+    background-position: -52.0em -24.0em;
+}
+
+.cemoji-easyjet {
+    background-position: -52.0em -25.4em;
+}
+
+.cemoji-eagle {
+    background-position: -52.0em -26.8em;
+}
+
+.cemoji-ea {
+    background-position: -52.0em -28.2em;
+}
+
+.cemoji-dynatrace {
+    background-position: -52.0em -29.6em;
+}
+
+.cemoji-dynamics365 {
+    background-position: -52.0em -31.0em;
+}
+
+.cemoji-dwm {
+    background-position: -52.0em -32.4em;
+}
+
+.cemoji-duolingo {
+    background-position: -52.0em -33.8em;
+}
+
+.cemoji-dunked {
+    background-position: -52.0em -35.2em;
+}
+
+.cemoji-duckduckgo {
+    background-position: -52.0em -36.6em;
+}
+
+.cemoji-dtube {
+    background-position: -52.0em -38.0em;
+}
+
+.cemoji-dsautomobiles {
+    background-position: -52.0em -39.4em;
+}
+
+.cemoji-drupal {
+    background-position: -52.0em -40.8em;
+}
+
+.cemoji-dropbox {
+    background-position: -52.0em -42.2em;
+}
+
+.cemoji-drooble {
+    background-position: -52.0em -43.6em;
+}
+
+.cemoji-drone {
+    background-position: -52.0em -45.0em;
+}
+
+.cemoji-dribbble {
+    background-position: -52.0em -46.4em;
+}
+
+.cemoji-douban {
+    background-position: -52.0em -47.8em;
+}
+
+.cemoji-doordash {
+    background-position: -52.0em -49.2em;
+}
+
+.cemoji-dolby {
+    background-position: -52.0em -50.6em;
+}
+
+.cemoji-dogecoin {
+    background-position: -0.2em -52.0em;
+}
+
+.cemoji-docusign {
+    background-position: -1.6em -52.0em;
+}
+
+.cemoji-docker {
+    background-position: -3.0em -52.0em;
+}
+
+.cemoji-dlna {
+    background-position: -4.4em -52.0em;
+}
+
+.cemoji-django {
+    background-position: -5.8em -52.0em;
+}
+
+.cemoji-disroot {
+    background-position: -7.2em -52.0em;
+}
+
+.cemoji-disqus {
+    background-position: -8.6em -52.0em;
+}
+
+.cemoji-discover {
+    background-position: -10.0em -52.0em;
+}
+
+.cemoji-discourse {
+    background-position: -11.4em -52.0em;
+}
+
+.cemoji-discord {
+    background-position: -12.8em -52.0em;
+}
+
+.cemoji-discogs {
+    background-position: -14.2em -52.0em;
+}
+
+.cemoji-directus {
+    background-position: -15.6em -52.0em;
+}
+
+.cemoji-dior {
+    background-position: -17.0em -52.0em;
+}
+
+.cemoji-digitalocean {
+    background-position: -18.4em -52.0em;
+}
+
+.cemoji-digg {
+    background-position: -19.8em -52.0em;
+}
+
+.cemoji-diaspora {
+    background-position: -21.2em -52.0em;
+}
+
+.cemoji-dialogflow {
+    background-position: -22.6em -52.0em;
+}
+
+.cemoji-dhl {
+    background-position: -24.0em -52.0em;
+}
+
+.cemoji-dgraph {
+    background-position: -25.4em -52.0em;
+}
+
+.cemoji-devrant {
+    background-position: -26.8em -52.0em;
+}
+
+.cemoji-devpost {
+    background-position: -28.2em -52.0em;
+}
+
+.cemoji-deviantart {
+    background-position: -29.6em -52.0em;
+}
+
+.cemoji-deutschebank {
+    background-position: -31.0em -52.0em;
+}
+
+.cemoji-deutschebahn {
+    background-position: -32.4em -52.0em;
+}
+
+.cemoji-designernews {
+    background-position: -33.8em -52.0em;
+}
+
+.cemoji-derspiegel {
+    background-position: -35.2em -52.0em;
+}
+
+.cemoji-dependabot {
+    background-position: -36.6em -52.0em;
+}
+
+.cemoji-deno {
+    background-position: -38.0em -52.0em;
+}
+
+.cemoji-delta {
+    background-position: -39.4em -52.0em;
+}
+
+.cemoji-delphi {
+    background-position: -40.8em -52.0em;
+}
+
+.cemoji-delonghi {
+    background-position: -42.2em -52.0em;
+}
+
+.cemoji-dell {
+    background-position: -43.6em -52.0em;
+}
+
+.cemoji-deliveroo {
+    background-position: -45.0em -52.0em;
+}
+
+.cemoji-deezer {
+    background-position: -46.4em -52.0em;
+}
+
+.cemoji-deepnote {
+    background-position: -47.8em -52.0em;
+}
+
+.cemoji-deepin {
+    background-position: -49.2em -52.0em;
+}
+
+.cemoji-debian {
+    background-position: -50.6em -52.0em;
+}
+
+.cemoji-dcentertainment {
+    background-position: -52.0em -52.0em;
+}
+
+.cemoji-dblp {
+    background-position: -53.4em -0.2em;
+}
+
+.cemoji-dazn {
+    background-position: -53.4em -1.6em;
+}
+
+.cemoji-datto {
+    background-position: -53.4em -3.0em;
+}
+
+.cemoji-datocms {
+    background-position: -53.4em -4.4em;
+}
+
+.cemoji-dataversioncontrol {
+    background-position: -53.4em -5.8em;
+}
+
+.cemoji-datastax {
+    background-position: -53.4em -7.2em;
+}
+
+.cemoji-datadog {
+    background-position: -53.4em -8.6em;
+}
+
+.cemoji-datacamp {
+    background-position: -53.4em -10.0em;
+}
+
+.cemoji-databricks {
+    background-position: -53.4em -11.4em;
+}
+
+.cemoji-dassaultsystemes {
+    background-position: -53.4em -12.8em;
+}
+
+.cemoji-dashlane {
+    background-position: -53.4em -14.2em;
+}
+
+.cemoji-dash {
+    background-position: -53.4em -15.6em;
+}
+
+.cemoji-daserste {
+    background-position: -53.4em -17.0em;
+}
+
+.cemoji-dart {
+    background-position: -53.4em -18.4em;
+}
+
+.cemoji-darkreader {
+    background-position: -53.4em -19.8em;
+}
+
+.cemoji-daimler {
+    background-position: -53.4em -21.2em;
+}
+
+.cemoji-dailymotion {
+    background-position: -53.4em -22.6em;
+}
+
+.cemoji-daf {
+    background-position: -53.4em -24.0em;
+}
+
+.cemoji-dacia {
+    background-position: -53.4em -25.4em;
+}
+
+.cemoji-cypress {
+    background-position: -53.4em -26.8em;
+}
+
+.cemoji-cycling74 {
+    background-position: -53.4em -28.2em;
+}
+
+.cemoji-curseforge {
+    background-position: -53.4em -29.6em;
+}
+
+.cemoji-curl {
+    background-position: -53.4em -31.0em;
+}
+
+.cemoji-cucumber {
+    background-position: -53.4em -32.4em;
+}
+
+.cemoji-csswizardry {
+    background-position: -53.4em -33.8em;
+}
+
+.cemoji-css3 {
+    background-position: -53.4em -35.2em;
+}
+
+.cemoji-csharp {
+    background-position: -53.4em -36.6em;
+}
+
+.cemoji-crystal {
+    background-position: -53.4em -38.0em;
+}
+
+.cemoji-cryengine {
+    background-position: -53.4em -39.4em;
+}
+
+.cemoji-crunchyroll {
+    background-position: -53.4em -40.8em;
+}
+
+.cemoji-crunchbase {
+    background-position: -53.4em -42.2em;
+}
+
+.cemoji-crowdsource {
+    background-position: -53.4em -43.6em;
+}
+
+.cemoji-crowdin {
+    background-position: -53.4em -45.0em;
+}
+
+.cemoji-crehana {
+    background-position: -53.4em -46.4em;
+}
+
+.cemoji-creativecommons {
+    background-position: -53.4em -47.8em;
+}
+
+.cemoji-craftcms {
+    background-position: -53.4em -49.2em;
+}
+
+.cemoji-cplusplus {
+    background-position: -53.4em -50.6em;
+}
+
+.cemoji-cpanel {
+    background-position: -53.4em -52.0em;
+}
+
+.cemoji-coveralls {
+    background-position: -0.2em -53.4em;
+}
+
+.cemoji-coursera {
+    background-position: -1.6em -53.4em;
+}
+
+.cemoji-countingworkspro {
+    background-position: -3.0em -53.4em;
+}
+
+.cemoji-couchbase {
+    background-position: -4.4em -53.4em;
+}
+
+.cemoji-corsair {
+    background-position: -5.8em -53.4em;
+}
+
+.cemoji-coronarenderer {
+    background-position: -7.2em -53.4em;
+}
+
+.cemoji-coronaengine {
+    background-position: -8.6em -53.4em;
+}
+
+.cemoji-cookiecutter {
+    background-position: -10.0em -53.4em;
+}
+
+.cemoji-convertio {
+    background-position: -11.4em -53.4em;
+}
+
+.cemoji-contentful {
+    background-position: -12.8em -53.4em;
+}
+
+.cemoji-contactlesspayment {
+    background-position: -14.2em -53.4em;
+}
+
+.cemoji-consul {
+    background-position: -15.6em -53.4em;
+}
+
+.cemoji-construct3 {
+    background-position: -17.0em -53.4em;
+}
+
+.cemoji-confluence {
+    background-position: -18.4em -53.4em;
+}
+
+.cemoji-conekta {
+    background-position: -19.8em -53.4em;
+}
+
+.cemoji-concourse {
+    background-position: -21.2em -53.4em;
+}
+
+.cemoji-composer {
+    background-position: -22.6em -53.4em;
+}
+
+.cemoji-commonworkflowlanguage {
+    background-position: -24.0em -53.4em;
+}
+
+.cemoji-commerzbank {
+    background-position: -25.4em -53.4em;
+}
+
+.cemoji-coinbase {
+    background-position: -26.8em -53.4em;
+}
+
+.cemoji-cognizant {
+    background-position: -28.2em -53.4em;
+}
+
+.cemoji-coffeescript {
+    background-position: -29.6em -53.4em;
+}
+
+.cemoji-codio {
+    background-position: -31.0em -53.4em;
+}
+
+.cemoji-codingninjas {
+    background-position: -32.4em -53.4em;
+}
+
+.cemoji-codingame {
+    background-position: -33.8em -53.4em;
+}
+
+.cemoji-codewars {
+    background-position: -35.2em -53.4em;
+}
+
+.cemoji-codeship {
+    background-position: -36.6em -53.4em;
+}
+
+.cemoji-codesandbox {
+    background-position: -38.0em -53.4em;
+}
+
+.cemoji-coderwall {
+    background-position: -39.4em -53.4em;
+}
+
+.cemoji-codersrank {
+    background-position: -40.8em -53.4em;
+}
+
+.cemoji-codeproject {
+    background-position: -42.2em -53.4em;
+}
+
+.cemoji-codepen {
+    background-position: -43.6em -53.4em;
+}
+
+.cemoji-codenewbie {
+    background-position: -45.0em -53.4em;
+}
+
+.cemoji-codemirror {
+    background-position: -46.4em -53.4em;
+}
+
+.cemoji-codemagic {
+    background-position: -47.8em -53.4em;
+}
+
+.cemoji-codeigniter {
+    background-position: -49.2em -53.4em;
+}
+
+.cemoji-codeforces {
+    background-position: -50.6em -53.4em;
+}
+
+.cemoji-codefactor {
+    background-position: -52.0em -53.4em;
+}
+
+.cemoji-codecov {
+    background-position: -53.4em -53.4em;
+}
+
+.cemoji-codeclimate {
+    background-position: -54.8em -0.2em;
+}
+
+.cemoji-codechef {
+    background-position: -54.8em -1.6em;
+}
+
+.cemoji-codeceptjs {
+    background-position: -54.8em -3.0em;
+}
+
+.cemoji-codecademy {
+    background-position: -54.8em -4.4em;
+}
+
+.cemoji-codeberg {
+    background-position: -54.8em -5.8em;
+}
+
+.cemoji-codacy {
+    background-position: -54.8em -7.2em;
+}
+
+.cemoji-coda {
+    background-position: -54.8em -8.6em;
+}
+
+.cemoji-cocos {
+    background-position: -54.8em -10.0em;
+}
+
+.cemoji-cocoapods {
+    background-position: -54.8em -11.4em;
+}
+
+.cemoji-cockroachlabs {
+    background-position: -54.8em -12.8em;
+}
+
+.cemoji-cnn {
+    background-position: -54.8em -14.2em;
+}
+
+.cemoji-cmake {
+    background-position: -54.8em -15.6em;
+}
+
+.cemoji-clyp {
+    background-position: -54.8em -17.0em;
+}
+
+.cemoji-clubhouse {
+    background-position: -54.8em -18.4em;
+}
+
+.cemoji-cloudways {
+    background-position: -54.8em -19.8em;
+}
+
+.cemoji-cloudsmith {
+    background-position: -54.8em -21.2em;
+}
+
+.cemoji-cloudflare {
+    background-position: -54.8em -22.6em;
+}
+
+.cemoji-cloudera {
+    background-position: -54.8em -24.0em;
+}
+
+.cemoji-cloudcannon {
+    background-position: -54.8em -25.4em;
+}
+
+.cemoji-cloudbees {
+    background-position: -54.8em -26.8em;
+}
+
+.cemoji-cloud66 {
+    background-position: -54.8em -28.2em;
+}
+
+.cemoji-clojure {
+    background-position: -54.8em -29.6em;
+}
+
+.cemoji-clockify {
+    background-position: -54.8em -31.0em;
+}
+
+.cemoji-cliqz {
+    background-position: -54.8em -32.4em;
+}
+
+.cemoji-clion {
+    background-position: -54.8em -33.8em;
+}
+
+.cemoji-clickup {
+    background-position: -54.8em -35.2em;
+}
+
+.cemoji-claris {
+    background-position: -54.8em -36.6em;
+}
+
+.cemoji-ckeditor4 {
+    background-position: -54.8em -38.0em;
+}
+
+.cemoji-civicrm {
+    background-position: -54.8em -39.4em;
+}
+
+.cemoji-citroen {
+    background-position: -54.8em -40.8em;
+}
+
+.cemoji-citrix {
+    background-position: -54.8em -42.2em;
+}
+
+.cemoji-cisco {
+    background-position: -54.8em -43.6em;
+}
+
+.cemoji-cirrusci {
+    background-position: -54.8em -45.0em;
+}
+
+.cemoji-circleci {
+    background-position: -54.8em -46.4em;
+}
+
+.cemoji-circle {
+    background-position: -54.8em -47.8em;
+}
+
+.cemoji-cinema4d {
+    background-position: -54.8em -49.2em;
+}
+
+.cemoji-chupachups {
+    background-position: -54.8em -50.6em;
+}
+
+.cemoji-chrysler {
+    background-position: -54.8em -52.0em;
+}
+
+.cemoji-chocolatey {
+    background-position: -54.8em -53.4em;
+}
+
+.cemoji-chinasouthernairlines {
+    background-position: -0.2em -54.8em;
+}
+
+.cemoji-chinaeasternairlines {
+    background-position: -1.6em -54.8em;
+}
+
+.cemoji-chevrolet {
+    background-position: -3.0em -54.8em;
+}
+
+.cemoji-chef {
+    background-position: -4.4em -54.8em;
+}
+
+.cemoji-checkmarx {
+    background-position: -5.8em -54.8em;
+}
+
+.cemoji-checkio {
+    background-position: -7.2em -54.8em;
+}
+
+.cemoji-chatbot {
+    background-position: -8.6em -54.8em;
+}
+
+.cemoji-chase {
+    background-position: -10.0em -54.8em;
+}
+
+.cemoji-chartmogul {
+    background-position: -11.4em -54.8em;
+}
+
+.cemoji-chakraui {
+    background-position: -12.8em -54.8em;
+}
+
+.cemoji-chainlink {
+    background-position: -14.2em -54.8em;
+}
+
+.cemoji-chai {
+    background-position: -15.6em -54.8em;
+}
+
+.cemoji-cesium {
+    background-position: -17.0em -54.8em;
+}
+
+.cemoji-ceph {
+    background-position: -18.4em -54.8em;
+}
+
+.cemoji-centos {
+    background-position: -19.8em -54.8em;
+}
+
+.cemoji-celery {
+    background-position: -21.2em -54.8em;
+}
+
+.cemoji-cdprojekt {
+    background-position: -22.6em -54.8em;
+}
+
+.cemoji-cbs {
+    background-position: -24.0em -54.8em;
+}
+
+.cemoji-caterpillar {
+    background-position: -25.4em -54.8em;
+}
+
+.cemoji-castro {
+    background-position: -26.8em -54.8em;
+}
+
+.cemoji-castorama {
+    background-position: -28.2em -54.8em;
+}
+
+.cemoji-castbox {
+    background-position: -29.6em -54.8em;
+}
+
+.cemoji-cashapp {
+    background-position: -31.0em -54.8em;
+}
+
+.cemoji-carto {
+    background-position: -32.4em -54.8em;
+}
+
+.cemoji-carthrottle {
+    background-position: -33.8em -54.8em;
+}
+
+.cemoji-capacitor {
+    background-position: -35.2em -54.8em;
+}
+
+.cemoji-canva {
+    background-position: -36.6em -54.8em;
+}
+
+.cemoji-canonical {
+    background-position: -38.0em -54.8em;
+}
+
+.cemoji-campaignmonitor {
+    background-position: -39.4em -54.8em;
+}
+
+.cemoji-cakephp {
+    background-position: -40.8em -54.8em;
+}
+
+.cemoji-cairometro {
+    background-position: -42.2em -54.8em;
+}
+
+.cemoji-cachet {
+    background-position: -43.6em -54.8em;
+}
+
+.cemoji-c {
+    background-position: -45.0em -54.8em;
+}
+
+.cemoji-byte {
+    background-position: -46.4em -54.8em;
+}
+
+.cemoji-buzzfeed {
+    background-position: -47.8em -54.8em;
+}
+
+.cemoji-buymeacoffee {
+    background-position: -49.2em -54.8em;
+}
+
+.cemoji-bunq {
+    background-position: -50.6em -54.8em;
+}
+
+.cemoji-bulma {
+    background-position: -52.0em -54.8em;
+}
+
+.cemoji-buildkite {
+    background-position: -53.4em -54.8em;
+}
+
+.cemoji-bugsnag {
+    background-position: -54.8em -54.8em;
+}
+
+.cemoji-bugcrowd {
+    background-position: -56.2em -0.2em;
+}
+
+.cemoji-bugatti {
+    background-position: -56.2em -1.6em;
+}
+
+.cemoji-buffer {
+    background-position: -56.2em -3.0em;
+}
+
+.cemoji-buefy {
+    background-position: -56.2em -4.4em;
+}
+
+.cemoji-buddy {
+    background-position: -56.2em -5.8em;
+}
+
+.cemoji-bt {
+    background-position: -56.2em -7.2em;
+}
+
+.cemoji-broadcom {
+    background-position: -56.2em -8.6em;
+}
+
+.cemoji-britishairways {
+    background-position: -56.2em -10.0em;
+}
+
+.cemoji-breaker {
+    background-position: -56.2em -11.4em;
+}
+
+.cemoji-brave {
+    background-position: -56.2em -12.8em;
+}
+
+.cemoji-brandfolder {
+    background-position: -56.2em -14.2em;
+}
+
+.cemoji-box {
+    background-position: -56.2em -15.6em;
+}
+
+.cemoji-bower {
+    background-position: -56.2em -17.0em;
+}
+
+.cemoji-bose {
+    background-position: -56.2em -18.4em;
+}
+
+.cemoji-bosch {
+    background-position: -56.2em -19.8em;
+}
+
+.cemoji-bootstrap {
+    background-position: -56.2em -21.2em;
+}
+
+.cemoji-boost {
+    background-position: -56.2em -22.6em;
+}
+
+.cemoji-bookstack {
+    background-position: -56.2em -24.0em;
+}
+
+.cemoji-bookmeter {
+    background-position: -56.2em -25.4em;
+}
+
+.cemoji-bookbub {
+    background-position: -56.2em -26.8em;
+}
+
+.cemoji-boeing {
+    background-position: -56.2em -28.2em;
+}
+
+.cemoji-bmw {
+    background-position: -56.2em -29.6em;
+}
+
+.cemoji-bmcsoftware {
+    background-position: -56.2em -31.0em;
+}
+
+.cemoji-bluetooth {
+    background-position: -56.2em -32.4em;
+}
+
+.cemoji-blueprint {
+    background-position: -56.2em -33.8em;
+}
+
+.cemoji-bloglovin {
+    background-position: -56.2em -35.2em;
+}
+
+.cemoji-blogger {
+    background-position: -56.2em -36.6em;
+}
+
+.cemoji-blender {
+    background-position: -56.2em -38.0em;
+}
+
+.cemoji-blazor {
+    background-position: -56.2em -39.4em;
+}
+
+.cemoji-blazemeter {
+    background-position: -56.2em -40.8em;
+}
+
+.cemoji-blackberry {
+    background-position: -56.2em -42.2em;
+}
+
+.cemoji-bitwig {
+    background-position: -56.2em -43.6em;
+}
+
+.cemoji-bitwarden {
+    background-position: -56.2em -45.0em;
+}
+
+.cemoji-bitrise {
+    background-position: -56.2em -46.4em;
+}
+
+.cemoji-bitly {
+    background-position: -56.2em -47.8em;
+}
+
+.cemoji-bitdefender {
+    background-position: -56.2em -49.2em;
+}
+
+.cemoji-bitcoinsv {
+    background-position: -56.2em -50.6em;
+}
+
+.cemoji-bitcoincash {
+    background-position: -56.2em -52.0em;
+}
+
+.cemoji-bitcoin {
+    background-position: -56.2em -53.4em;
+}
+
+.cemoji-bitbucket {
+    background-position: -56.2em -54.8em;
+}
+
+.cemoji-bit {
+    background-position: -0.2em -56.2em;
+}
+
+.cemoji-bilibili {
+    background-position: -1.6em -56.2em;
+}
+
+.cemoji-bigcommerce {
+    background-position: -3.0em -56.2em;
+}
+
+.cemoji-bigcartel {
+    background-position: -4.4em -56.2em;
+}
+
+.cemoji-bigbluebutton {
+    background-position: -5.8em -56.2em;
+}
+
+.cemoji-bigbasket {
+    background-position: -7.2em -56.2em;
+}
+
+.cemoji-betfair {
+    background-position: -8.6em -56.2em;
+}
+
+.cemoji-bentley {
+    background-position: -10.0em -56.2em;
+}
+
+.cemoji-beijingsubway {
+    background-position: -11.4em -56.2em;
+}
+
+.cemoji-behance {
+    background-position: -12.8em -56.2em;
+}
+
+.cemoji-beatsbydre {
+    background-position: -14.2em -56.2em;
+}
+
+.cemoji-beats {
+    background-position: -15.6em -56.2em;
+}
+
+.cemoji-beatport {
+    background-position: -17.0em -56.2em;
+}
+
+.cemoji-bbciplayer {
+    background-position: -18.4em -56.2em;
+}
+
+.cemoji-bbc {
+    background-position: -19.8em -56.2em;
+}
+
+.cemoji-bathasu {
+    background-position: -21.2em -56.2em;
+}
+
+.cemoji-bata {
+    background-position: -22.6em -56.2em;
+}
+
+.cemoji-basecamp {
+    background-position: -24.0em -56.2em;
+}
+
+.cemoji-baremetrics {
+    background-position: -25.4em -56.2em;
+}
+
+.cemoji-barclays {
+    background-position: -26.8em -56.2em;
+}
+
+.cemoji-bankofamerica {
+    background-position: -28.2em -56.2em;
+}
+
+.cemoji-bandsintown {
+    background-position: -29.6em -56.2em;
+}
+
+.cemoji-bandlab {
+    background-position: -31.0em -56.2em;
+}
+
+.cemoji-bandcamp {
+    background-position: -32.4em -56.2em;
+}
+
+.cemoji-bamboo {
+    background-position: -33.8em -56.2em;
+}
+
+.cemoji-baidu {
+    background-position: -35.2em -56.2em;
+}
+
+.cemoji-badoo {
+    background-position: -36.6em -56.2em;
+}
+
+.cemoji-badgr {
+    background-position: -38.0em -56.2em;
+}
+
+.cemoji-babel {
+    background-position: -39.4em -56.2em;
+}
+
+.cemoji-azurepipelines {
+    background-position: -40.8em -56.2em;
+}
+
+.cemoji-azurefunctions {
+    background-position: -42.2em -56.2em;
+}
+
+.cemoji-azuredevops {
+    background-position: -43.6em -56.2em;
+}
+
+.cemoji-azuredataexplorer {
+    background-position: -45.0em -56.2em;
+}
+
+.cemoji-azureartifacts {
+    background-position: -46.4em -56.2em;
+}
+
+.cemoji-awsamplify {
+    background-position: -47.8em -56.2em;
+}
+
+.cemoji-awesomewm {
+    background-position: -49.2em -56.2em;
+}
+
+.cemoji-awesomelists {
+    background-position: -50.6em -56.2em;
+}
+
+.cemoji-automattic {
+    background-position: -52.0em -56.2em;
+}
+
+.cemoji-autohotkey {
+    background-position: -53.4em -56.2em;
+}
+
+.cemoji-autodesk {
+    background-position: -54.8em -56.2em;
+}
+
+.cemoji-authy {
+    background-position: -56.2em -56.2em;
+}
+
+.cemoji-auth0 {
+    background-position: -57.6em -0.2em;
+}
+
+.cemoji-aurelia {
+    background-position: -57.6em -1.6em;
+}
+
+.cemoji-audiomack {
+    background-position: -57.6em -3.0em;
+}
+
+.cemoji-audioboom {
+    background-position: -57.6em -4.4em;
+}
+
+.cemoji-audible {
+    background-position: -57.6em -5.8em;
+}
+
+.cemoji-audi {
+    background-position: -57.6em -7.2em;
+}
+
+.cemoji-audacity {
+    background-position: -57.6em -8.6em;
+}
+
+.cemoji-atom {
+    background-position: -57.6em -10.0em;
+}
+
+.cemoji-atlassian {
+    background-position: -57.6em -11.4em;
+}
+
+.cemoji-atari {
+    background-position: -57.6em -12.8em;
+}
+
+.cemoji-asus {
+    background-position: -57.6em -14.2em;
+}
+
+.cemoji-assemblyscript {
+    background-position: -57.6em -15.6em;
+}
+
+.cemoji-askubuntu {
+    background-position: -57.6em -17.0em;
+}
+
+.cemoji-askfm {
+    background-position: -57.6em -18.4em;
+}
+
+.cemoji-aseprite {
+    background-position: -57.6em -19.8em;
+}
+
+.cemoji-asciinema {
+    background-position: -57.6em -21.2em;
+}
+
+.cemoji-asciidoctor {
+    background-position: -57.6em -22.6em;
+}
+
+.cemoji-asana {
+    background-position: -57.6em -24.0em;
+}
+
+.cemoji-arxiv {
+    background-position: -57.6em -25.4em;
+}
+
+.cemoji-artstation {
+    background-position: -57.6em -26.8em;
+}
+
+.cemoji-artixlinux {
+    background-position: -57.6em -28.2em;
+}
+
+.cemoji-arlo {
+    background-position: -57.6em -29.6em;
+}
+
+.cemoji-arkecosystem {
+    background-position: -57.6em -31.0em;
+}
+
+.cemoji-arduino {
+    background-position: -57.6em -32.4em;
+}
+
+.cemoji-ardour {
+    background-position: -57.6em -33.8em;
+}
+
+.cemoji-archlinux {
+    background-position: -57.6em -35.2em;
+}
+
+.cemoji-archiveofourown {
+    background-position: -57.6em -36.6em;
+}
+
+.cemoji-archicad {
+    background-position: -57.6em -38.0em;
+}
+
+.cemoji-arangodb {
+    background-position: -57.6em -39.4em;
+}
+
+.cemoji-aral {
+    background-position: -57.6em -40.8em;
+}
+
+.cemoji-appveyor {
+    background-position: -57.6em -42.2em;
+}
+
+.cemoji-appstore {
+    background-position: -57.6em -43.6em;
+}
+
+.cemoji-appsignal {
+    background-position: -57.6em -45.0em;
+}
+
+.cemoji-appletv {
+    background-position: -57.6em -46.4em;
+}
+
+.cemoji-applepodcasts {
+    background-position: -57.6em -47.8em;
+}
+
+.cemoji-applepay {
+    background-position: -57.6em -49.2em;
+}
+
+.cemoji-applemusic {
+    background-position: -57.6em -50.6em;
+}
+
+.cemoji-applearcade {
+    background-position: -57.6em -52.0em;
+}
+
+.cemoji-apple {
+    background-position: -57.6em -53.4em;
+}
+
+.cemoji-apostrophe {
+    background-position: -57.6em -54.8em;
+}
+
+.cemoji-apollographql {
+    background-position: -57.6em -56.2em;
+}
+
+.cemoji-aparat {
+    background-position: -0.2em -57.6em;
+}
+
+.cemoji-apachetomcat {
+    background-position: -1.6em -57.6em;
+}
+
+.cemoji-apachespark {
+    background-position: -3.0em -57.6em;
+}
+
+.cemoji-apachesolr {
+    background-position: -4.4em -57.6em;
+}
+
+.cemoji-apacherocketmq {
+    background-position: -5.8em -57.6em;
+}
+
+.cemoji-apachepulsar {
+    background-position: -7.2em -57.6em;
+}
+
+.cemoji-apacheopenoffice {
+    background-position: -8.6em -57.6em;
+}
+
+.cemoji-apachenetbeanside {
+    background-position: -10.0em -57.6em;
+}
+
+.cemoji-apachemaven {
+    background-position: -11.4em -57.6em;
+}
+
+.cemoji-apachekylin {
+    background-position: -12.8em -57.6em;
+}
+
+.cemoji-apachekafka {
+    background-position: -14.2em -57.6em;
+}
+
+.cemoji-apachejmeter {
+    background-position: -15.6em -57.6em;
+}
+
+.cemoji-apachehive {
+    background-position: -17.0em -57.6em;
+}
+
+.cemoji-apachegroovy {
+    background-position: -18.4em -57.6em;
+}
+
+.cemoji-apacheflink {
+    background-position: -19.8em -57.6em;
+}
+
+.cemoji-apacheecharts {
+    background-position: -21.2em -57.6em;
+}
+
+.cemoji-apachedruid {
+    background-position: -22.6em -57.6em;
+}
+
+.cemoji-apachecordova {
+    background-position: -24.0em -57.6em;
+}
+
+.cemoji-apachecloudstack {
+    background-position: -25.4em -57.6em;
+}
+
+.cemoji-apachecassandra {
+    background-position: -26.8em -57.6em;
+}
+
+.cemoji-apacheant {
+    background-position: -28.2em -57.6em;
+}
+
+.cemoji-apacheairflow {
+    background-position: -29.6em -57.6em;
+}
+
+.cemoji-apache {
+    background-position: -31.0em -57.6em;
+}
+
+.cemoji-aol {
+    background-position: -32.4em -57.6em;
+}
+
+.cemoji-anydesk {
+    background-position: -33.8em -57.6em;
+}
+
+.cemoji-antena3 {
+    background-position: -35.2em -57.6em;
+}
+
+.cemoji-antdesign {
+    background-position: -36.6em -57.6em;
+}
+
+.cemoji-ansys {
+    background-position: -38.0em -57.6em;
+}
+
+.cemoji-ansible {
+    background-position: -39.4em -57.6em;
+}
+
+.cemoji-anilist {
+    background-position: -40.8em -57.6em;
+}
+
+.cemoji-angularuniversal {
+    background-position: -42.2em -57.6em;
+}
+
+.cemoji-angularjs {
+    background-position: -43.6em -57.6em;
+}
+
+.cemoji-angular {
+    background-position: -45.0em -57.6em;
+}
+
+.cemoji-angellist {
+    background-position: -46.4em -57.6em;
+}
+
+.cemoji-androidstudio {
+    background-position: -47.8em -57.6em;
+}
+
+.cemoji-androidauto {
+    background-position: -49.2em -57.6em;
+}
+
+.cemoji-android {
+    background-position: -50.6em -57.6em;
+}
+
+.cemoji-andela {
+    background-position: -52.0em -57.6em;
+}
+
+.cemoji-anchor {
+    background-position: -53.4em -57.6em;
+}
+
+.cemoji-analogue {
+    background-position: -54.8em -57.6em;
+}
+
+.cemoji-anaconda {
+    background-position: -56.2em -57.6em;
+}
+
+.cemoji-ana {
+    background-position: -57.6em -57.6em;
+}
+
+.cemoji-amul {
+    background-position: -59.0em -0.2em;
+}
+
+.cemoji-amp {
+    background-position: -59.0em -1.6em;
+}
+
+.cemoji-americanexpress {
+    background-position: -59.0em -3.0em;
+}
+
+.cemoji-americanairlines {
+    background-position: -59.0em -4.4em;
+}
+
+.cemoji-amd {
+    background-position: -59.0em -5.8em;
+}
+
+.cemoji-amazons3 {
+    background-position: -59.0em -7.2em;
+}
+
+.cemoji-amazonprime {
+    background-position: -59.0em -8.6em;
+}
+
+.cemoji-amazonpay {
+    background-position: -59.0em -10.0em;
+}
+
+.cemoji-amazonlumberyard {
+    background-position: -59.0em -11.4em;
+}
+
+.cemoji-amazonfiretv {
+    background-position: -59.0em -12.8em;
+}
+
+.cemoji-amazondynamodb {
+    background-position: -59.0em -14.2em;
+}
+
+.cemoji-amazonaws {
+    background-position: -59.0em -15.6em;
+}
+
+.cemoji-amazonalexa {
+    background-position: -59.0em -17.0em;
+}
+
+.cemoji-amazon {
+    background-position: -59.0em -18.4em;
+}
+
+.cemoji-altiumdesigner {
+    background-position: -59.0em -19.8em;
+}
+
+.cemoji-alpinelinux {
+    background-position: -59.0em -21.2em;
+}
+
+.cemoji-alltrails {
+    background-position: -59.0em -22.6em;
+}
+
+.cemoji-allocine {
+    background-position: -59.0em -24.0em;
+}
+
+.cemoji-alliedmodders {
+    background-position: -59.0em -25.4em;
+}
+
+.cemoji-alitalia {
+    background-position: -59.0em -26.8em;
+}
+
+.cemoji-alipay {
+    background-position: -59.0em -28.2em;
+}
+
+.cemoji-aliexpress {
+    background-position: -59.0em -29.6em;
+}
+
+.cemoji-alibabacloud {
+    background-position: -59.0em -31.0em;
+}
+
+.cemoji-algolia {
+    background-position: -59.0em -32.4em;
+}
+
+.cemoji-alfaromeo {
+    background-position: -59.0em -33.8em;
+}
+
+.cemoji-alacritty {
+    background-position: -59.0em -35.2em;
+}
+
+.cemoji-airtable {
+    background-position: -59.0em -36.6em;
+}
+
+.cemoji-airplayvideo {
+    background-position: -59.0em -38.0em;
+}
+
+.cemoji-airplayaudio {
+    background-position: -59.0em -39.4em;
+}
+
+.cemoji-airfrance {
+    background-position: -59.0em -40.8em;
+}
+
+.cemoji-airchina {
+    background-position: -59.0em -42.2em;
+}
+
+.cemoji-aircanada {
+    background-position: -59.0em -43.6em;
+}
+
+.cemoji-aircall {
+    background-position: -59.0em -45.0em;
+}
+
+.cemoji-airbus {
+    background-position: -59.0em -46.4em;
+}
+
+.cemoji-airbnb {
+    background-position: -59.0em -47.8em;
+}
+
+.cemoji-airasia {
+    background-position: -59.0em -49.2em;
+}
+
+.cemoji-aiqfome {
+    background-position: -59.0em -50.6em;
+}
+
+.cemoji-aiohttp {
+    background-position: -59.0em -52.0em;
+}
+
+.cemoji-aidungeon {
+    background-position: -59.0em -53.4em;
+}
+
+.cemoji-affinitypublisher {
+    background-position: -59.0em -54.8em;
+}
+
+.cemoji-affinityphoto {
+    background-position: -59.0em -56.2em;
+}
+
+.cemoji-affinitydesigner {
+    background-position: -59.0em -57.6em;
+}
+
+.cemoji-affinity {
+    background-position: -0.2em -59.0em;
+}
+
+.cemoji-aerospike {
+    background-position: -1.6em -59.0em;
+}
+
+.cemoji-aeromexico {
+    background-position: -3.0em -59.0em;
+}
+
+.cemoji-aeroflot {
+    background-position: -4.4em -59.0em;
+}
+
+.cemoji-aerlingus {
+    background-position: -5.8em -59.0em;
+}
+
+.cemoji-adonisjs {
+    background-position: -7.2em -59.0em;
+}
+
+.cemoji-adobexd {
+    background-position: -8.6em -59.0em;
+}
+
+.cemoji-adobepremierepro {
+    background-position: -10.0em -59.0em;
+}
+
+.cemoji-adobephotoshop {
+    background-position: -11.4em -59.0em;
+}
+
+.cemoji-adobelightroomclassic {
+    background-position: -12.8em -59.0em;
+}
+
+.cemoji-adobelightroom {
+    background-position: -14.2em -59.0em;
+}
+
+.cemoji-adobeindesign {
+    background-position: -15.6em -59.0em;
+}
+
+.cemoji-adobeillustrator {
+    background-position: -17.0em -59.0em;
+}
+
+.cemoji-adobefonts {
+    background-position: -18.4em -59.0em;
+}
+
+.cemoji-adobedreamweaver {
+    background-position: -19.8em -59.0em;
+}
+
+.cemoji-adobecreativecloud {
+    background-position: -21.2em -59.0em;
+}
+
+.cemoji-adobeaudition {
+    background-position: -22.6em -59.0em;
+}
+
+.cemoji-adobeaftereffects {
+    background-position: -24.0em -59.0em;
+}
+
+.cemoji-adobeacrobatreader {
+    background-position: -25.4em -59.0em;
+}
+
+.cemoji-adobe {
+    background-position: -26.8em -59.0em;
+}
+
+.cemoji-adguard {
+    background-position: -28.2em -59.0em;
+}
+
+.cemoji-addthis {
+    background-position: -29.6em -59.0em;
+}
+
+.cemoji-adblockplus {
+    background-position: -31.0em -59.0em;
+}
+
+.cemoji-adblock {
+    background-position: -32.4em -59.0em;
+}
+
+.cemoji-adafruit {
+    background-position: -33.8em -59.0em;
+}
+
+.cemoji-activision {
+    background-position: -35.2em -59.0em;
+}
+
+.cemoji-actigraph {
+    background-position: -36.6em -59.0em;
+}
+
+.cemoji-acm {
+    background-position: -38.0em -59.0em;
+}
+
+.cemoji-acer {
+    background-position: -39.4em -59.0em;
+}
+
+.cemoji-accusoft {
+    background-position: -40.8em -59.0em;
+}
+
+.cemoji-acclaim {
+    background-position: -42.2em -59.0em;
+}
+
+.cemoji-accenture {
+    background-position: -43.6em -59.0em;
+}
+
+.cemoji-academia {
+    background-position: -45.0em -59.0em;
+}
+
+.cemoji-abstract {
+    background-position: -46.4em -59.0em;
+}
+
+.cemoji-abletonlive {
+    background-position: -47.8em -59.0em;
+}
+
+.cemoji-abbvie {
+    background-position: -49.2em -59.0em;
+}
+
+.cemoji-abbrobotstudio {
+    background-position: -50.6em -59.0em;
+}
+
+.cemoji-500px {
+    background-position: -52.0em -59.0em;
+}
+
+.cemoji-4d {
+    background-position: -53.4em -59.0em;
+}
+
+.cemoji-42 {
+    background-position: -54.8em -59.0em;
+}
+
+.cemoji-3m {
+    background-position: -56.2em -59.0em;
+}
+
+.cemoji-1password {
+    background-position: -57.6em -59.0em;
+}
+
+.cemoji-1001tracklists {
+    background-position: -59.0em -59.0em;
+}
