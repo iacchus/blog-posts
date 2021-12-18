@@ -50,6 +50,7 @@ build_and_publish_task:
     - git clone https://github.com/iacchus/blog-posts.git $CONTENT_DIR
     - cp -rf static/ $CONTENT_DIR/
   build_script:
+    - source ~/.venv/bin/activate
     - cd $PELICAN_DIR
     - make publish
   publish_script:
