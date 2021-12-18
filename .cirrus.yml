@@ -5,12 +5,15 @@ container:
   options: --user root
 
 env:
+  CONTENT_DIR: 'content'
+  AUTOCOMMIT_MSG: 'auto from cirrus-ci'
   DEPLOY_KEY: ENCRYPTED[489ea965063f2189762e65c79c9e670efb632d4833f20e6cd151de6cc212390300930469639a1e85366a2155714a0a16]
-  PUBDIR: "output"
+  OUTPUT_DIR: "output"
   ORIGIN: "git@github.com:iacchus/iacchus.github.io.git"
+  PELICAN_DIR: 'ghblog-reborn'
 
 build_and_publish_task:
-  auto_cancellation: $CIRRUS_CHANGE_TITLE == 'auto from cirrus-ci'
+  auto_cancellation: $CIRRUS_CHANGE_TITLE == $AUTOCOMMIT_MSG
   prepare_archlinux_script:
     - pacman -Syu --noconfirm
     - pacman -Fy
@@ -34,17 +37,18 @@ build_and_publish_task:
     - git config --global user.name "I.M. - Cirrus-CI"
     - git config --global init.defaultBranch master
     #- rm -rf .git/
-  build_and_publish_script:
-    #- git clone https://github.com/iacchus/iacchus.github.io-pelican.git pelican
-    - git clone https://github.com/iacchus/ghblog-reborn.git pelican
-    - cd pelican
-    - rm -rf .git/
-    - git clone https://github.com/iacchus/blog-posts.git content
-    - cp -rf static/* content/
+  pelican_setup_script:
+    - git clone https://github.com/iacchus/ghblog-reborn.git $PELICAN_DIR
+    - cd $PELICAN_DIR
+    #- rm -rf .git/
+    - git clone https://github.com/iacchus/blog-posts.git $CONTENT_DIR
+    - cp -rf static/* $CONTENT_DIR/
+  build_script:
     - make publish
-    - cd $PUBDIR
+  publish_script:
+    - cd $PELICAN_DIR/$OUTPUT_DIR
     - git init .
     - git add .
-    - git commit -a -m 'auto from cirrus-ci' || true
+    - git commit -a -m $AUTOCOMMIT_MSG || true
     - git remote add origin $ORIGIN
     - git push --force -u origin master
