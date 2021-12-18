@@ -37,8 +37,8 @@ build_and_publish_task:
     - cd pelican
     - rm -rf .git/
     - git clone https://github.com/iacchus/blog-posts.git content
-    - export PUBDIR="iacchus.github.io"
-    - export ORIGIN="git@github.com:iacchus/iacchus.github.io.git"
+    #- export PUBDIR="iacchus.github.io"
+    #- export ORIGIN="git@github.com:iacchus/iacchus.github.io.git"
     - make publish
     - cd $PUBDIR
     - git init .
