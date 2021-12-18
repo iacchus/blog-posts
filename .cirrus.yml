@@ -41,8 +41,10 @@ build_and_publish_task:
   get_blog_posts_script:
     - git clone https://github.com/iacchus/blog-posts.git content
   build_script:
+    - cd pelican
     - make publish
   publish_script:
+    - cd pelican
     - cd $PUBDIR
     - git init .
     - git add .
