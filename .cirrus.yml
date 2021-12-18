@@ -6,7 +6,7 @@ container:
 
 env:
   DEPLOY_KEY: ENCRYPTED[489ea965063f2189762e65c79c9e670efb632d4833f20e6cd151de6cc212390300930469639a1e85366a2155714a0a16]
-  PUBDIR: "../iacchus.github.io"
+  PUBDIR: "iacchus.github.io"
   ORIGIN: "git@github.com:iacchus/iacchus.github.io.git"
 
 build_and_publish_task:
