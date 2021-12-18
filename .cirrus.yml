@@ -32,6 +32,7 @@ build_and_publish_task:
     - git config --global push.default matching
     - git config --global user.email "kassivs+git@gmail.com"
     - git config --global user.name "I.M. - Cirrus-CI"
+    - git config --global init.defaultBranch master
     #- rm -rf .git/
     - git clone https://github.com/iacchus/iacchus.github.io-pelican.git pelican
     - cd pelican
