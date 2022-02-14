@@ -46,19 +46,19 @@ class Device:
 
 
     def get_option(self, option):
-        """Reads an option parameter from the device's atual configuration"""
+        """Reads an option parameter from the device's actual configuration"""
 
         command = COMMANDS["get_option"](self.name, option)
         return XSETWACOM.run(command)
 
     def set_option(self, option, value):
-        """Sets an option parameter to the device's atual configuration"""
+        """Sets an option parameter to the device's actual configuration"""
 
         command = COMMANDS["set_option"](self.name, option, value)
         return XSETWACOM.run(command)
 
     def set_button(self, button, value):
-        """Sets a button parameter to the device's atual configuration"""
+        """Sets a button parameter to the device's actual configuration"""
 
         command = COMMANDS["set_button"](self.name, button, value)
         return XSETWACOM.run(command)
